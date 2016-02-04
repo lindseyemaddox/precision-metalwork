@@ -1,0 +1,12 @@
+<div class="hidden">
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/Nisshinbo1.jpg" title="NISSHINBO"><img alt="Nisshinbo HIQ-1250 CNC Turret Punch Press" class="lazy" property="Photograph" src="/_assets/img/galleries/Nisshinbo1.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/Nisshinbo2.jpg" title="NISSHINBO"><img alt="Nisshinbo Turret Punch Press" class="lazy" property="Photograph" src="/_assets/img/galleries/Nisshinbo2.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/Nisshinbo3.jpg" title="NISSHINBO"><img alt="Nisshinbo CNC Turret Punch Press" class="lazy" property="Photograph" src="/_assets/img/galleries/Nisshinbo3.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/Nisshinbo4.jpg" title="NISSHINBO"><img alt="Nisshinbo Punch Press" class="lazy" property="Photograph" src="/_assets/img/galleries/Nisshinbo4.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/Nisshinbo5.jpg" title="NISSHINBO"><img alt="Nisshinbo HIQ-1250 Turret Punch Press" class="lazy" property="Photograph" src="/_assets/img/galleries/Nisshinbo5.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/Nisshinbo6.jpg" title="NISSHINBO"><img alt="Nisshinbo HIQ-1250 CNC Press" class="lazy" property="Photograph" src="/_assets/img/galleries/Nisshinbo6.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/Nisshinbo7.jpg" title="NISSHINBO"><img alt="CNC Turret Punch Press" class="lazy" property="Photograph" src="/_assets/img/galleries/Nisshinbo7.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/StrippitLVD1.jpg" title="STRIPPIT LVD"><img alt="Strippit LVD Global 20 CNC Turret Punch" class="lazy" property="Photograph" src="/_assets/img/galleries/StrippitLVD1.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/StrippitLVD2.jpg" title="STRIPPIT LVD"><img alt="Strippit LVD CNC Turret Punch" class="lazy" property="Photograph" src="/_assets/img/galleries/StrippitLVD2.jpg"/></a>
+	<a class="fancybox" rel="punch-press" href="/_assets/img/galleries/StrippitLVD3.jpg" title="STRIPPIT LVD"><img alt="CNC Turret Punch" class="lazy" property="Photograph" src="/_assets/img/galleries/StrippitLVD3.jpg"/></a>
+</div>

@@ -1,0 +1,2 @@
+[27-Jan-2016 14:39:17 UTC] PHP Warning:  require_once(/home/voltox/public_html/hosted/precisionmetalwork.com/_assets/inc/head.php): failed to open stream: No such file or directory in /home/voltox/public_html/hosted/precisionmetalwork.com/index.php on line 1
+[27-Jan-2016 14:39:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/voltox/public_html/hosted/precisionmetalwork.com/_assets/inc/head.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/voltox/public_html/hosted/precisionmetalwork.com/index.php on line 1
