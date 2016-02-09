@@ -24,7 +24,7 @@
         <div class="twoCol">
 
             <a class="fancybox fancyboxImg" rel="press-brakes" title="Press Brakes" href="/_assets/img/lightbox-press-brakes.jpg"><img src="/_assets/img/lightbox-press-brakes.jpg" alt="press brakes"><span class="icon-plus"></span></a>
-            
+
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-press-brakes.php'); //image gallery?>
 
             <div class="text">
@@ -40,7 +40,7 @@
         <div class="twoCol">
 
             <a class="fancybox fancyboxImg" rel="punch-press" title="Nisshinbo HIQ-1250 CNC Turret Punch Press" href="/_assets/img/lightbox-nisshinbo.jpg"><img src="/_assets/img/lightbox-nisshinbo.jpg" alt="Nisshinbo HIQ-1250 CNC Turret Punch Press"><span class="icon-plus"></span></a>
-            
+
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-punch-press.php'); //image gallery?>
 
             <div class="text">
@@ -56,7 +56,7 @@
         <div class="twoCol">
 
             <a class="fancybox fancyboxImg" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/lightbox-laser.jpg"><img src="/_assets/img/lightbox-laser.jpg" alt="Trumpf TruLaser 3030"><span class="icon-plus"></span></a>
-            
+
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-laser-cutting.php'); //image gallery?>
 
             <div class="text">
@@ -72,7 +72,7 @@
         <div class="twoCol">
 
             <a class="fancybox fancyboxImg" rel="welding" title="welding project" href="/_assets/img/lightbox-welding.jpg"><img src="/_assets/img/lightbox-welding.jpg" alt="welding project"><span class="icon-plus"></span></a>
-            
+
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-welding.php'); //image gallery?>
 
             <div class="text">
@@ -88,7 +88,7 @@
         <div class="twoCol">
 
             <a class="fancybox fancyboxImg" rel="wet-paint" title="Wet Paint Line" href="/_assets/img/lightbox-wet-paint.jpg"><img src="/_assets/img/lightbox-wet-paint.jpg" alt="wet painting line"><span class="icon-plus"></span></a>
-            
+
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-wet-paint.php'); //image gallery?>
 
             <div class="text">
@@ -104,14 +104,14 @@
         <div class="twoCol last">
 
             <a class="fancybox fancyboxImg" rel="powder" title="Powder Coat Paint Line" href="/_assets/img/lightbox-powder.jpg"><img src="/_assets/img/lightbox-powder.jpg" alt="powder painting line"><span class="icon-plus"></span></a>
-            
+
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-powder.php'); //image gallery?>
 
             <div class="text">
 
                 <h2><span class="icon-arrow-double"></span> Powder Coat Paint Line</h2>
 
-                <p>Our <a class="fancybox" href="/_assets/img/lightbox-gema.jpg" rel="powder" title="GEMA Powder Coat Paint Line">GEMA Powder Coat Paint Line</a> has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean, and excellent coating results. <a href="/painting/powder-coating">Read more about our powder coating line.</a></p>
+                <p>Our <a class="fancybox" href="/_assets/img/lightbox-gema.jpg" rel="powder" title="GEMA Powder Coat Paint Line">GEMA Powder Coat Paint Line</a> has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean and excellent coating results. <a href="/painting/powder-coating">Read more about our powder coating line.</a></p>
 
             </div><!--text-->
 
@@ -133,7 +133,7 @@
 
         <h4><span>Our Work</span><br/>
         We fabricate a wide variety of <a class="fancybox" href="/_assets/img/lightbox-welding.jpg" rel="assembly" title="fabrication and assembly">components, parts, and products</a> made from aluminum, carbon steel, and stainless steel as well as speciality metals that include brass, copper, bronze, and other specialty metals.</h4>
-        
+
         <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-assembly.php'); //image gallery?>
 
     </div><!--inner-->
@@ -145,11 +145,11 @@
     <div class="inner">
 
         <h3>Our Vendors</h3>
-        
+
         <div class="flexslider carousel">
-        
+
             <ul class="slides">
-        
+
                 <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
 
                 <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>

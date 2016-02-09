@@ -26,7 +26,7 @@
 					<li class="drop"><a href="/painting/">Painting</a> <span class="icon-arrow-double collapsed"></span>
 						<ul class="last">
 							<li><a href="/painting/wet-painting">Wet Painting</a></li>
-							<li><a href="/painting/powder-painting">Powder Coating</a></li>
+							<li><a href="/painting/powder-coating">Powder Coating</a></li>
 						</ul>
 					</li>
 					<li><a href="/support-equipment">Equipment</a></li>

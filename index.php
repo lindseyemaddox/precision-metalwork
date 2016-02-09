@@ -37,50 +37,50 @@
 
                             <div class="inner">
 
-                                <div class="tp-caption WebProduct-Title-Light   tp-resizeme" id="slide-227-layer-7" 
-                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']" 
-                                     data-y="['middle','middle','top','top']" data-voffset="['-80','-80','137','130']" 
+                                <div class="tp-caption WebProduct-Title-Light   tp-resizeme" id="slide-227-layer-7"
+                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']"
+                                     data-y="['middle','middle','top','top']" data-voffset="['-80','-80','137','130']"
                                     data-width="['1000','356','334','277']"
                                     data-height="['none','none','76','68']"
                                     data-whitespace="normal"
                                     data-transform_idle="o:1;"
-                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;" 
-                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;" 
-                                    data-start="1000" 
-                                    data-splitin="none" 
-                                    data-splitout="none" 
+                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;"
+                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
+                                    data-start="1000"
+                                    data-splitin="none"
+                                    data-splitout="none"
                                     data-responsive_offset="on" >
                                     <h1>Welcome to Precision Metalwork, Inc.</h1>
                                 </div>
 
-                                <div class="tp-caption WebProduct-SubTitle-Light   tp-resizeme" id="slide-227-layer-10" 
-                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']" 
-                                     data-y="['middle','middle','top','top']" data-voffset="['44','44','294','277']" 
+                                <div class="tp-caption WebProduct-SubTitle-Light   tp-resizeme" id="slide-227-layer-10"
+                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']"
+                                     data-y="['middle','middle','top','top']" data-voffset="['44','44','294','277']"
                                     data-width="['1000','356','334','277']"
                                     data-height="['none','none','76','68']"
                                     data-whitespace="normal"
                                     data-transform_idle="o:1;"
-                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;" 
-                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;" 
-                                    data-start="1400" 
-                                    data-splitin="none" 
-                                    data-splitout="none" 
+                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;"
+                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
+                                    data-start="1400"
+                                    data-splitin="none"
+                                    data-splitout="none"
                                     data-responsive_offset="on" >
                                     <h2>Located just outside <span>Nashville, Tennessee,</span> Precision Metalwork has been manufacturing and customizing quality sheet metal products since 1971.</h2>
                                 </div>
 
-                                <div class="tp-caption WebProduct-Content-Light   tp-resizeme" id="slide-227-layer-9" 
-                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']" 
-                                     data-y="['middle','middle','top','top']" data-voffset="['129','127','345','316']" 
+                                <div class="tp-caption WebProduct-Content-Light   tp-resizeme" id="slide-227-layer-9"
+                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']"
+                                     data-y="['middle','middle','top','top']" data-voffset="['129','127','345','316']"
                                     data-width="['1000','356','334','277']"
                                     data-height="['none','none','76','68']"
                                     data-whitespace="normal"
-                                    data-transform_idle="o:1;"                         
-                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;" 
-                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;" 
-                                    data-start="1800" 
-                                    data-splitin="none" 
-                                    data-splitout="none" 
+                                    data-transform_idle="o:1;"
+                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;"
+                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
+                                    data-start="1800"
+                                    data-splitin="none"
+                                    data-splitout="none"
                                     data-responsive_offset="on">
                                     <h4>In addition to producing parts, components, assemblies, and finished products, we offer a full range of metal fabrication services—such as shearing, hole punching, laser cutting, bending, welding, assembling, and painting. </h4>
                                 </div>
@@ -93,18 +93,18 @@
                             <source src="/_assets/slider/precision-metalwork.mp4" type="video/mp4">
                             <source src="/_assets/slider/precision-metalwork.ogv" type="video/ogg">
                             <img src="../../assets/images/dummy.png" alt="" data-lazyload="/_assets/img/video.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" class="rev-slidebg" data-no-retina>
-                        </video> 
+                        </video>
 
                     </ul>
-                  
+
                     <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
-                
+
                 </div>
-            
+
             </div>
-            
+
             <!-- END REVOLUTION SLIDER -->
-            
+
             <script type="text/javascript">
                 var tpj = jQuery;
 
@@ -156,46 +156,6 @@
 
         </article>
     </section>
-
-    <section class="white">
-
-        <div class="inner">
-
-            <h3>Metal Painting Services</h3>
-
-            <div class="two">
-
-                <article>
-
-                    <span class="icon-wet-paint">
-                        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
-                    </span>
-
-                    <h5>Wet Painting</h5>
-
-                    <p>We prime and wet paint metal—including stainless steel, aluminum, carbon steel, and more.</p>
-
-                </article>
-
-                <article>
-
-                    <span class="icon-dry-paint">
-                        <span class="path1"></span><span class="path2"></span>
-                    </span>
-
-                    <h5>Powder Coating</h5>
-
-                    <p>Get a durable, weather-resistant solution for your metal products and assemblies.</p>
-
-                </article>
-
-            </div><!--two-->
-
-        </div><!--inner-->
-
-    </section><!--white-->
-
-    <section class="fixed press"></section>
 
     <section class="white">
 
@@ -259,16 +219,60 @@
 
     </section><!--white-->
 
+    <section class="fixed press"></section>
+
+    <section class="white">
+
+        <div class="inner">
+
+            <h3>Metal Painting Services</h3>
+
+            <div class="four">
+
+                <article></article>
+
+                <article>
+
+                    <span class="icon-wet-paint">
+                        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
+                    </span>
+
+                    <h5>Wet Painting</h5>
+
+                    <p>We prime and wet paint metal—including stainless steel, aluminum, carbon steel, and more.</p>
+
+                </article>
+
+                <article>
+
+                    <span class="icon-dry-paint">
+                        <span class="path1"></span><span class="path2"></span>
+                    </span>
+
+                    <h5>Powder Coating</h5>
+
+                    <p>Get a durable, weather-resistant solution for your metal products and assemblies.</p>
+
+                </article>
+
+                <article></article>
+
+            </div><!--two-->
+
+        </div><!--inner-->
+
+    </section><!--white-->
+
     <section class="fixed line"></section>
 
     <section class="white slider">
 
         <div class="inner">
-            
+
             <div class="flexslider carousel">
-            
+
                 <ul class="slides">
-            
+
                     <li><img src="/_assets/img/portfolio-stacked.jpg" alt="stacked metal stuff"/></li>
 
                     <li><img src="/_assets/img/portfolio-grid.jpg" alt="stacked metal stuff"/></li>
@@ -284,7 +288,7 @@
             </div><!--flexslider-->
 
         </div><!--inner-->
-    
+
     </section><!--slider-->
 
     <script type="text/javascript">

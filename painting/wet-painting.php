@@ -23,7 +23,7 @@
 
         <h2><span class="icon-arrow-double"></span> When to Choose Wet Paint</h2>
 
-        <p>Wet paint is ideal for products that require thin coats of paint and/or can’t withstand the high oven temperates associated with powder coating. Wet painting also provides protection as well as custom decorative finishes in a wide range of colors that aren’t always available in powder coating. Keep in mind, it’s is important to consider paint’s drying and curing times, as these times can vary anywhere from several days to several weeks.</p>
+        <p>Wet paint is ideal for products that require thin coats of paint and/or can’t withstand the high oven temperates associated with powder coating. Wet painting also provides protection as well as custom decorative finishes in a wide range of colors that aren’t always available in powder coating. Keep in mind, it’s important to consider paint’s drying and curing times, as these times can vary anywhere from several days to several weeks.</p>
 
     </div><!--inner-->
 
@@ -34,11 +34,11 @@
     <div class="inner">
 
         <h3>Our Vendors</h3>
-        
+
         <div class="flexslider carousel">
-        
+
             <ul class="slides">
-        
+
                 <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
 
                 <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>

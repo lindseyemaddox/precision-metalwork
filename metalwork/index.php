@@ -19,8 +19,6 @@
 
         <p>Typically, we work with sheet metal gauge tolerances between .015 and .030 inches, we’re able to work in a tolerance range between .005 to .010 inches if this degree of precision is required. And the standard types of metal we commonly work with are:</p>
 
-        <h2><span class="icon-arrow-double"></span> You can count on Precision Metalwork to:</h2>
-
         <ul class="twoCol lastChild">
             <li><span class="icon-li"></span> aluminum,</li>
             <li><span class="icon-li"></span> carbon steel,</li>

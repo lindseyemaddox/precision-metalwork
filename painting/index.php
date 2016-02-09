@@ -17,14 +17,14 @@
 
     <div class="inner">
 
-        <h6>Precision Metalwork has a full-service metal painting department that offers both a certified <a href="/painting/powder-coating">powder coat painting</a> process as well as a standard <a href="/painting/wet-painting">“wet paint” line</a>. We have metal painting solutions for a wide variety of steel and aluminum components as well as small fabrications and assemblies all under one roof. We’re also happy to accommodate both short-term and long-term projects. That means we’re able to provide quality results in a timely manner.</h6>
+        <h6>Precision Metalwork has a full-service metal painting department that offers both a certified <a href="/painting/powder-coating">powder coat painting</a> process as well as a standard <a href="/painting/wet-painting">“wet paint” line</a>. We have metal painting solutions for a wide variety of steel and aluminum components as well as small fabrications and assemblies all under one roof. That means we’re able to provide quality results in a timely manner.</h6>
 
         <p>Our goal is to do a great job the first time, every time. That’s why we take pride in our work, which is reflected not only in the quality of our products and services, but in everything we do. We work hard to meet all of our customers’ specific needs—including design, function, and tolerance—while providing high-quality, affordable metalwork services for both short-term and long-term projects.</p>
 
         <div class="twoCol">
 
             <a class="fancybox fancyboxImg" rel="powder" title="Powder Coat Paint Line" href="/_assets/img/lightbox-powder.jpg"><img src="/_assets/img/lightbox-powder.jpg" alt="powder painting line"><span class="icon-plus"></span></a>
-            
+
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-powder.php'); //image gallery?>
 
             <div class="text">
@@ -40,7 +40,7 @@
         <div class="twoCol">
 
             <a class="fancybox fancyboxImg" rel="wet-paint" title="Wet Paint Line" href="/_assets/img/lightbox-wet-paint.jpg"><img src="/_assets/img/lightbox-wet-paint.jpg" alt="wet painting line"><span class="icon-plus"></span></a>
-            
+
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-wet-paint.php'); //image gallery?>
 
             <div class="text">
@@ -62,11 +62,11 @@
     <div class="inner">
 
         <h3>Our Vendors</h3>
-        
+
         <div class="flexslider carousel">
-        
+
             <ul class="slides">
-        
+
                 <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
 
                 <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>

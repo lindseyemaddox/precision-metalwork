@@ -16,11 +16,11 @@
 
     <div class="inner">
 
-        <h6>Precision Metalwork offers sheet metal fabrication solutions for nearly any size project and provides custom welding and laser cutting services to OEMs as well as customers in the transportation, energy, food service, and home design industries, just to name a few. We’re dedicated not only housing the best welding and laster cutting equipment, but also providing ongoing training to our team members to ensure we’re providing our customers with the best results all around.</h6>
+        <h6>Precision Metalwork is here to address your metal grinding and polishing needs quickly and efficiently while delivering exceptional products and services. You can count on our high-quality, precision machinery and technology coupled with our metal grinding, polishing, and buffing services help ensure a great finish every time.</h6>
 
-        <p>Our skilled welders have years of experience in both commercial and industrial <a class="fancybox" href="/_assets/img/lightbox-welding.jpg" data-fancybox-group="welding" title="welding projects">welding projects</a> as well as in using our TIG and MIG welding machines on many types of alloys. And our attention to detail helps us deliver metal fabrication services result in high-quality welds the first time, every time.</p>
+        <h2><span class="icon-arrow-double"></span> Benefits of Metal Grinding &amp; Polishing</h2>
 
-        <p>You can count on our fully automated <a class="fancybox" href="/_assets/img/lightbox-trumpf.jpg" data-fancybox-group="welding" title="Trumpf TruLaser 3030">Trumpf TruLaser 3030</a> laser cutting machine to cut mild steel at all sheet thicknesses. And its solid-state laser enables us to process non-ferrous metals. In addition to being able to handle tight tolerances, laser cutting results in clean, smooth results. That means you can count on consistency, accuracy, and fast turnaround times.</p>
+        <p>Metal grinding, buffing, and polishing are ideal for cleaning and preparing different types of metal for <a href="/painting/">painting</a>, <a href="/metalwork/welding-laser-cutting">welding</a>, or other <a href="/metalwork/fabrication-assembly">metal fabrication services</a>. Grinding and polishing are also great for removing rust and the effects of oxidation from metals, such as stainless steel, aluminum, copper, and brass. </p>
 
     </div><!--inner-->
 
@@ -46,7 +46,7 @@
 
         <h2><span class="icon-arrow-double"></span> Let’s Get Started</h2>
 
-        <p>Located right outside <a href="https://goo.gl/maps/ddNh56LfhPH2" target="_blank">Nashville, Tennessee</a>, Precision Metalwork has the knowledge, capability, and equipment you need to meet your custom welding and laser cutting needs. We’re also happy to accommodate both short-term and long-term <a href="/portfolio">projects</a>.  Contact us today by calling <a href="tel:16158594461">(615) 859-4461</a> or <a href="/contact">submitting an online form</a>.</p>
+        <p>For more than 40 years, Precision Metalwork has provided exceptional metal fabrication craftsmanship to a variety of industries and markets. From <a href="/metalwork/fabrication-assembly">fabrication and assembly</a> to <a href="/metalwork/grinding-polishing">polishing</a> and <a href="/painting/">painting</a>, we deliver the quality and professionalism you deserve. We’re also happy to accommodate both short-term and long-term projects.  Contact us today by calling <a href="tel:16158594461">(615) 859-4461</a> or <a href="/contact">submitting an online form</a>.</p>
 
     </div><!--inner-->
 
