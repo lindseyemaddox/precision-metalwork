@@ -2353,6 +2353,62 @@ body {
   animation-delay: 0s;
   -webkit-animation-delay: 0s;
 }
+.four article a:hover {
+  border-bottom: none;
+}
+.four article a:hover .icon-punch {
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+.four article a:hover .icon-punch .path1::before,
+.four article a:hover .icon-punch .path2::before,
+.four article a:hover .icon-punch .path4::before,
+.four article a:hover .icon-punch .path6::before {
+  color: #003755;
+}
+.four article a:hover .icon-laser .path1::before {
+  color: #003755;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+.four article a:hover .icon-grinding .path1::before {
+  color: #003755;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+.four article a:hover .icon-assembly .path1::before {
+  color: #003755;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+.four article a:hover .icon-wet-paint .path1::before {
+  color: #003755;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+.four article a:hover .icon-dry-paint .path1::before {
+  color: #003755;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
 /*
  * jQuery FlexSlider v2.0
  * http://www.woothemes.com/flexslider/

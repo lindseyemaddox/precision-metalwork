@@ -42,49 +42,65 @@
 
                 <article>
 
-                    <span class="icon-punch">
-                        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
-                    </span>
+                    <a href="/metalwork/punch-form">
 
-                    <h5>Punch &amp; Form</h5>
+                        <span class="icon-punch">
+                            <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
+                        </span>
 
-                    <p>We’ll form the perfect solution for your metal fabrication needs.</p>
+                        <h5>Punch &amp; Form</h5>
 
-                </article>
+                        <p>We’ll form the perfect solution for your metal fabrication needs.</p>
 
-                <article>
-
-                    <span class="icon-laser">
-                        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
-                    </span>
-
-                    <h5>Welding &amp; Laser Cutting</h5>
-
-                    <p>Learn about our custom metal welding and laser cutting services.</p>
+                    </a>
 
                 </article>
 
                 <article>
 
-                    <span class="icon-grinding">
-                        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
-                    </span>
+                    <a href="/metalwork/welding-laser-cutting">
 
-                    <h5>Grinding &amp; Polishing</h5>
+                        <span class="icon-laser">
+                            <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
+                        </span>
 
-                    <p>Our metal grinding, polishing, and buffing services ensure a great finish.</p>
+                        <h5>Welding &amp; Laser Cutting</h5>
+
+                        <p>Learn about our custom metal welding and laser cutting services.</p>
+
+                    </a>
 
                 </article>
 
                 <article>
 
-                    <span class="icon-assembly">
-                        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
-                    </span>
+                    <a href="/metalwork/grinding-polishing">
 
-                    <h5>Fabrication &amp; Assembly</h5>
+                        <span class="icon-grinding">
+                            <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
+                        </span>
 
-                    <p>We manufacture and assemble a wide variety of metal components.</p>
+                        <h5>Grinding &amp; Polishing</h5>
+
+                        <p>Our metal grinding, polishing, and buffing services ensure a great finish.</p>
+
+                    </a>
+
+                </article>
+
+                <article>
+
+                    <a href="/metalwork/fabrication-assembly">
+
+                        <span class="icon-assembly">
+                            <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span>
+                        </span>
+
+                        <h5>Fabrication &amp; Assembly</h5>
+
+                        <p>We manufacture and assemble a wide variety of metal components.</p>
+
+                    </a>
 
                 </article>
 
@@ -117,25 +133,33 @@
 
                 <article>
 
-                    <span class="icon-wet-paint">
-                        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
-                    </span>
+                    <a href="/painting/wet-painting">
 
-                    <h5>Wet Painting</h5>
+                        <span class="icon-wet-paint">
+                            <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
+                        </span>
 
-                    <p>We prime and wet paint metal—including stainless steel, aluminum, carbon steel, and more.</p>
+                        <h5>Wet Painting</h5>
+
+                        <p>We prime and wet paint metal—including stainless steel, aluminum, carbon steel, and more.</p>
+
+                    </a>
 
                 </article>
 
                 <article>
 
-                    <span class="icon-dry-paint">
-                        <span class="path1"></span><span class="path2"></span>
-                    </span>
+                    <a href="/painting/powder-coating">
 
-                    <h5>Powder Coating</h5>
+                        <span class="icon-dry-paint">
+                            <span class="path1"></span><span class="path2"></span>
+                        </span>
 
-                    <p>Get a durable, weather-resistant solution for your metal products and assemblies.</p>
+                        <h5>Powder Coating</h5>
+
+                        <p>Get a durable, weather-resistant solution for your metal products and assemblies.</p>
+
+                    </a>
 
                 </article>
 
