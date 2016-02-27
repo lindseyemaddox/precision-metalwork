@@ -292,13 +292,16 @@
     </section><!--slider-->
 
     <script type="text/javascript">
-
-        $(document).ready(function() {
-          $('.flexslider').flexslider({
-            minItems: 1,
-            maxItems: 5
-          });
+        $(function(){
+            SyntaxHighlighter.all();
         });
-
+        $(window).load(function(){
+            $('.flexslider').flexslider({
+                start: function(slider){
+                    $('body').removeClass('loading');
+                }
+            });
+        });
     </script>
+
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>
