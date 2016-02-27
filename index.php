@@ -1,163 +1,38 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
-
-    <!-- REVOLUTION STYLE SHEETS -->
-    <link rel="stylesheet" type="text/css" href="/_assets/slider/settings.css">
-    <link rel="stylesheet" type="text/css" href="/_assets/slider/navigation.css">
-
-    <!-- REVOLUTION JS FILES -->
-    <script type="text/javascript" src="/_assets/slider/jquery.themepunch.tools.min.js"></script>
-    <script type="text/javascript" src="/_assets/slider/jquery.themepunch.revolution.min.js"></script>
-
-    <!-- REVOLUTION EXTENSIONS -->
-    <script type="text/javascript" src="/_assets/slider/revolution.extension.layeranimation.min.js"></script>
-    <script type="text/javascript" src="/_assets/slider/revolution.extension.navigation.min.js"></script>
-    <script type="text/javascript" src="/_assets/slider/revolution.extension.slideanims.min.js"></script>
-    <script type="text/javascript" src="/_assets/slider/revolution.extension.video.min.js"></script>
-
-    <!-- FLEXSLIDER CAROUSEL -->
-    <script type="text/javascript" src="/_assets/js/flexslider.jquery.js"></script>
-
-
+<script type="text/javascript" src="/_assets/js/smoothscroll.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
-
-    <!-- SLIDER EXAMPLE -->
     <section id="header">
 
-        <article class="content">
+    <div class="inner">
+
+        <div>
+
+            <h1>Welcome to Precision Metalwork, Inc.</h1>
+            <h2>Located just outside <span>Nashville, Tennessee,</span> Precision Metalwork has been manufacturing and customizing quality sheet metal products since 1971.</h2>
+            <h4>In addition to producing parts, components, assemblies, and finished products, we offer a full range of metal fabrication services—such as shearing, hole punching, laser cutting, bending, welding, assembling, and painting. </h4>
+        </div>
+    
+    </div><!--inner-->
 
 
-            <div id="rev_slider_210_1_wrapper" class="rev_slider_wrapper fullwidth-container" data-alias="sliding-overlays">
+    <video loop autoplay>
+        <source src="/_assets/slider/precision-metalwork.mp4" type="video/mp4">
+        <source src="/_assets/slider/precision-metalwork.ogv" type="video/ogg">
+        <img src="../../assets/images/dummy.png" alt="" data-lazyload="/_assets/img/video.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" class="rev-slidebg" data-no-retina>
+    </video>
 
-                <div id="rev_slider_210_1" class="rev_slider fullwidthbanner" style="display:none;" data-version="5.1.1RC">
+    <a href="#metalwork" id="metalwork-link">
+        <svg class="arrows">
+            <path class="a1" d="M0 0 L30 32 L60 0"></path>
+            <path class="a2" d="M0 20 L30 52 L60 20"></path>
+            <path class="a3" d="M0 40 L30 72 L60 40"></path>
+        </svg>
+    </a>
 
-                    <ul>
-
-                        <li data-index="rs-696" data-transition="slidingoverlayvertical" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-rotate="0" data-saveperformance="off" data-title="Welcome" data-description="">
-
-                            <div class="inner">
-
-                                <div class="tp-caption WebProduct-Title-Light   tp-resizeme" id="slide-227-layer-7"
-                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']"
-                                     data-y="['middle','middle','top','top']" data-voffset="['-80','-80','137','130']"
-                                    data-width="['1000','356','334','277']"
-                                    data-height="['none','none','76','68']"
-                                    data-whitespace="normal"
-                                    data-transform_idle="o:1;"
-                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;"
-                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
-                                    data-start="1000"
-                                    data-splitin="none"
-                                    data-splitout="none"
-                                    data-responsive_offset="on" >
-                                    <h1>Welcome to Precision Metalwork, Inc.</h1>
-                                </div>
-
-                                <div class="tp-caption WebProduct-SubTitle-Light   tp-resizeme" id="slide-227-layer-10"
-                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']"
-                                     data-y="['middle','middle','top','top']" data-voffset="['44','44','294','277']"
-                                    data-width="['1000','356','334','277']"
-                                    data-height="['none','none','76','68']"
-                                    data-whitespace="normal"
-                                    data-transform_idle="o:1;"
-                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;"
-                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
-                                    data-start="1400"
-                                    data-splitin="none"
-                                    data-splitout="none"
-                                    data-responsive_offset="on" >
-                                    <h2>Located just outside <span>Nashville, Tennessee,</span> Precision Metalwork has been manufacturing and customizing quality sheet metal products since 1971.</h2>
-                                </div>
-
-                                <div class="tp-caption WebProduct-Content-Light   tp-resizeme" id="slide-227-layer-9"
-                                     data-x="['left','left','left','left']" data-hoffset="['200','30','200','80']"
-                                     data-y="['middle','middle','top','top']" data-voffset="['129','127','345','316']"
-                                    data-width="['1000','356','334','277']"
-                                    data-height="['none','none','76','68']"
-                                    data-whitespace="normal"
-                                    data-transform_idle="o:1;"
-                                     data-transform_in="x:-50px;opacity:0;s:1000;e:Power2.easeOut;"
-                                     data-transform_out="opacity:0;s:1500;e:Power4.easeIn;s:1500;e:Power4.easeIn;"
-                                    data-start="1800"
-                                    data-splitin="none"
-                                    data-splitout="none"
-                                    data-responsive_offset="on">
-                                    <h4>In addition to producing parts, components, assemblies, and finished products, we offer a full range of metal fabrication services—such as shearing, hole punching, laser cutting, bending, welding, assembling, and painting. </h4>
-                                </div>
-
-                            </div><!--inner-->
-
-                        </li>
-
-                        <video loop autoplay>
-                            <source src="/_assets/slider/precision-metalwork.mp4" type="video/mp4">
-                            <source src="/_assets/slider/precision-metalwork.ogv" type="video/ogg">
-                            <img src="../../assets/images/dummy.png" alt="" data-lazyload="/_assets/img/video.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" class="rev-slidebg" data-no-retina>
-                        </video>
-
-                    </ul>
-
-                    <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
-
-                </div>
-
-            </div>
-
-            <!-- END REVOLUTION SLIDER -->
-
-            <script type="text/javascript">
-                var tpj = jQuery;
-
-                var revapi210;
-                tpj(document).ready(function() {
-                    if (tpj("#rev_slider_210_1").revolution == undefined) {
-                        revslider_showDoubleJqueryError("#rev_slider_210_1");
-                    } else {
-                        revapi210 = tpj("#rev_slider_210_1").show().revolution({
-                            sliderType: "standard",
-                            jsFileLocation: "../../revolution/js/",
-                            sliderLayout: "fullwidth",
-                            dottedOverlay: "none",
-                            delay: 9000,
-                            navigation: {
-                                keyboardNavigation: "off",
-                                keyboard_direction: "horizontal",
-                                mouseScrollNavigation: "off",
-                                onHoverStop: "off",
-                                arrows: {
-                                    enable: false,
-                                }
-                            },
-                            responsiveLevels:[1240,1024,778,480],
-                            gridwidth:[1400,1240,778,480],
-                            gridheight:[868,768,960,720],
-                            lazyType: "single",
-                            spinner: "on",
-                            stopLoop: "on",
-                            stopAfterLoops: 0,
-                            stopAtSlide: 1,
-                            shuffle: "off",
-                            autoHeight: "on",
-                            disableProgressBar: "off",
-                            hideThumbsOnMobile: "off",
-                            hideSliderAtLimit: 0,
-                            hideCaptionAtLimit: 0,
-                            hideAllCaptionAtLimit: 0,
-                            debugMode: false,
-                            fallbacks: {
-                                simplifyAll: "off",
-                                nextSlideOnWindowFocus: "off",
-                                disableFocusListener: false,
-                            }
-                        });
-                    }
-                }); /*ready*/
-            </script>
-
-        </article>
     </section>
 
-    <section class="white">
+    <section class="white" id="metalwork">
 
         <div class="inner">
 
@@ -219,7 +94,16 @@
 
     </section><!--white-->
 
-    <section class="fixed press"></section>
+    <section class="dark">
+
+        <div class="inner">
+        
+            <h3>We work hard to meet all of our customers’ specific needs—including <span>design, function, and tolerance</span>—while providing high-quality, affordable metalwork services for both short-term and long-term projects. </h2>
+            <h4>And because the quality of our products and services is, and continues to be, the key to competitiveness, it is increasingly vital for all of us at Precision Metalwork to understand and use our ISO 9001:2008 Quality Management System to do a great job, the first time, every time.</h4>
+
+        </div><!--inner-->
+
+    </section>
 
     <section class="white">
 
@@ -265,43 +149,45 @@
 
     <section class="fixed line"></section>
 
-    <section class="white slider">
+    <section class="white">
 
-        <div class="inner">
+        <div class="inner grid">
 
-            <div class="flexslider carousel">
+            <h3>Recent Projects</h3>            
 
-                <ul class="slides">
+            <div class="portfolioItem powder punch ">
+                <img src="/_assets/img/Precision-MiscParts.jpg" alt="portfolio item"/>
+                <div class="container">
+                    <h3>Item Title</h3>
+                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                </div><!--container-->
+            </div>
+            <div class="portfolioItem grind laser">
+                <img src="/_assets/img/Precision-MiscParts3.jpg" alt="portfolio item"/>
+                <div class="container">
+                    <h3>Item Title</h3>
+                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts3.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                </div><!--container-->
+            </div>
+            <div class="portfolioItem weld powder">
+                <img src="/_assets/img/Precision-MiscParts4.jpg" alt="portfolio item"/>
+                <div class="container">
+                    <h3>Item Title</h3>
+                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts4.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                </div><!--container-->
+            </div>
+            <div class="portfolioItem form fabrication">
+                <img src="/_assets/img/Precision-MiscParts5.jpg" alt="portfolio item"/>
+                <div class="container">
+                    <h3>Item Title</h3>
+                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts5.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                </div><!--container-->
+            </div>
 
-                    <li><img src="/_assets/img/portfolio-stacked.jpg" alt="stacked metal stuff"/></li>
-
-                    <li><img src="/_assets/img/portfolio-grid.jpg" alt="stacked metal stuff"/></li>
-
-                    <li><img src="/_assets/img/portfolio-scrap-plate.jpg" alt="scrap plate"/></li>
-
-                    <li><img src="/_assets/img/portfolio-scraps.jpg" alt="metal scraps"/></li>
-
-                    <li><img src="/_assets/img/portfolio-trimmed.jpg" alt="trimmed metal"/></li>
-
-                </ul>
-
-            </div><!--flexslider-->
+            <p><a href="/portfolio">View more projects on our Portfolio page.</a></p>
 
         </div><!--inner-->
 
     </section><!--slider-->
-
-    <script type="text/javascript">
-        $(function(){
-            SyntaxHighlighter.all();
-        });
-        $(window).load(function(){
-            $('.flexslider').flexslider({
-                start: function(slider){
-                    $('body').removeClass('loading');
-                }
-            });
-        });
-    </script>
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>

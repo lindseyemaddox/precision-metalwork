@@ -1,5 +1,5 @@
 </head>
-<body>
+<body data-spy="scroll" data-target="nav">
 	<header>
 
 		<div class="inner">
