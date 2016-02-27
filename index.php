@@ -32,6 +32,67 @@
 
     </section>
 
+    <section class="white">
+
+        <div class="inner">
+
+            <h3>Metal Painting Services</h3>
+
+            <div class="four">
+
+                <article></article>
+
+                <article>
+
+                    <a href="/painting/wet-painting">
+
+                        <span class="icon-wet-paint">
+                            <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
+                        </span>
+
+                        <h5>Wet Painting</h5>
+
+                        <p>We prime and wet paint metal—including stainless steel, aluminum, carbon steel, and more.</p>
+
+                    </a>
+
+                </article>
+
+                <article>
+
+                    <a href="/painting/powder-coating">
+
+                        <span class="icon-dry-paint">
+                            <span class="path1"></span><span class="path2"></span>
+                        </span>
+
+                        <h5>Powder Coating</h5>
+
+                        <p>Get a durable, weather-resistant solution for your metal products and assemblies.</p>
+
+                    </a>
+
+                </article>
+
+                <article></article>
+
+            </div><!--two-->
+
+        </div><!--inner-->
+
+    </section><!--white-->
+
+    <section class="dark">
+
+        <div class="inner">
+        
+            <h3>We work hard to meet all of our customers’ specific needs—including <span>design, function, and tolerance</span>—while providing high-quality, affordable metalwork services for both short-term and long-term projects. </h2>
+            <h4>And because the quality of our products and services is, and continues to be, the key to competitiveness, it is increasingly vital for all of us at Precision Metalwork to understand and use our ISO 9001:2008 Quality Management System to do a great job, the first time, every time.</h4>
+
+        </div><!--inner-->
+
+    </section>
+
     <section class="white" id="metalwork">
 
         <div class="inner">
@@ -105,67 +166,6 @@
                 </article>
 
             </div><!--four-->
-
-        </div><!--inner-->
-
-    </section><!--white-->
-
-    <section class="dark">
-
-        <div class="inner">
-        
-            <h3>We work hard to meet all of our customers’ specific needs—including <span>design, function, and tolerance</span>—while providing high-quality, affordable metalwork services for both short-term and long-term projects. </h2>
-            <h4>And because the quality of our products and services is, and continues to be, the key to competitiveness, it is increasingly vital for all of us at Precision Metalwork to understand and use our ISO 9001:2008 Quality Management System to do a great job, the first time, every time.</h4>
-
-        </div><!--inner-->
-
-    </section>
-
-    <section class="white">
-
-        <div class="inner">
-
-            <h3>Metal Painting Services</h3>
-
-            <div class="four">
-
-                <article></article>
-
-                <article>
-
-                    <a href="/painting/wet-painting">
-
-                        <span class="icon-wet-paint">
-                            <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span><span class="path8"></span><span class="path9"></span><span class="path10"></span><span class="path11"></span><span class="path12"></span><span class="path13"></span>
-                        </span>
-
-                        <h5>Wet Painting</h5>
-
-                        <p>We prime and wet paint metal—including stainless steel, aluminum, carbon steel, and more.</p>
-
-                    </a>
-
-                </article>
-
-                <article>
-
-                    <a href="/painting/powder-coating">
-
-                        <span class="icon-dry-paint">
-                            <span class="path1"></span><span class="path2"></span>
-                        </span>
-
-                        <h5>Powder Coating</h5>
-
-                        <p>Get a durable, weather-resistant solution for your metal products and assemblies.</p>
-
-                    </a>
-
-                </article>
-
-                <article></article>
-
-            </div><!--two-->
 
         </div><!--inner-->
 
