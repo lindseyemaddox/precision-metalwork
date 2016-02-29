@@ -32,7 +32,7 @@
 
     </section>
 
-    <section class="white">
+    <section class="white" id="metalwork">
 
         <div class="inner">
 
@@ -93,7 +93,7 @@
 
     </section>
 
-    <section class="white" id="metalwork">
+    <section class="white">
 
         <div class="inner">
 

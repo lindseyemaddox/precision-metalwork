@@ -20,15 +20,15 @@
         <p>Typically, we work with sheet metal gauge tolerances between .015 and .030 inches, we’re able to work in a tolerance range between .005 to .010 inches if this degree of precision is required. And the standard types of metal we commonly work with are:</p>
 
         <ul class="twoCol lastChild">
-            <li><span class="icon-li"></span> aluminum,</li>
-            <li><span class="icon-li"></span> carbon steel,</li>
-            <li><span class="icon-li"></span> stainless steel,</li>
+            <li><span class="icon-li"></span> Aluminum</li>
+            <li><span class="icon-li"></span> Carbon Steel</li>
+            <li><span class="icon-li"></span> Stainless Steel</li>
         </ul>
 
         <ul class="twoCol two lastChild">
-            <li><span class="icon-li"></span> brass,</li>
-            <li><span class="icon-li"></span> copper,</li>
-            <li><span class="icon-li"></span> bronze, and other specialty metals.</li>
+            <li><span class="icon-li"></span> Brass</li>
+            <li><span class="icon-li"></span> Copper</li>
+            <li><span class="icon-li"></span> Bronze, and Other Specialty Metals.</li>
         </ul>
 
     </div><!--inner-->

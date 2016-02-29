@@ -32,7 +32,7 @@
                 <li><span class="icon-li"></span> Kalamazoo 4" cold saw</li>
                 <li><span class="icon-li"></span> Everett abrasive saw</li>
                 <li><span class="icon-li"></span> Falls products deburring machine (two sides)</li>
-                <li><span class="icon-li"></span> <a href="/metalwork/grinding-polishing">Visit Grinding &amp; P  olishing Page</a></li>
+                <li><span class="icon-li"></span> <a href="/metalwork/grinding-polishing">Visit Grinding &amp; Polishing Page</a></li>
             </ul>
 
           </div>

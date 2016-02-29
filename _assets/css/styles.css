@@ -1036,12 +1036,12 @@ a {
   -o-transition: all 400ms ease;
   -ms-transition: all 400ms ease;
   transition: all 400ms ease;
-  color: #d6a94d;
+  color: #4492f2;
   text-decoration: none;
 }
 a:hover {
   text-decoration: none;
-  border-bottom: 1px solid #d6a94d;
+  border-bottom: 1px solid #4492f2;
 }
 .btn {
   border: 3px solid #ffffff;
@@ -3215,6 +3215,12 @@ body {
 }
 .icon-iso-badge {
   font-size: 13.5em;
+}
+.tab a {
+  color: #d6a94d;
+}
+.tab a:hover {
+  border-bottom-color: #d6a94d;
 }
 /*
  * jQuery FlexSlider v2.0
