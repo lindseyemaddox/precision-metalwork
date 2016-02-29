@@ -60,7 +60,7 @@
 
             <ul class="twoCol lastChild">
                 <li><span class="icon-li"></span> Strippit Global 20 turret press</li>
-                <li><span class="icon-li"></span> Guifil CNC 8' hydraulic press brake</li>
+                <li><span class="icon-li"></span> Trumpf 3100 10' hydraulic press brake</li>
             </ul>
 
             <ul class="twoCol two lastChild">
@@ -86,25 +86,6 @@
           </div>
         </div>
         <div class="tab">
-          <input id="tab-five" type="radio" name="tabs2">
-          <label for="tab-five"><span class="icon-arrow-double"></span> Punch, Shear, Form, Weld, and Assembly</label>
-          <div class="tab-content">
-
-            <ul class="twoCol lastChild">
-                <li><span class="icon-li"></span> Strippit CNC 1250 turret press</li>
-                <li><span class="icon-li"></span> Edwards 4' electric/mechanical shear</li>
-                <li><span class="icon-li"></span> Pro-notch 9" x 90-degree notcher</li>
-                <li><span class="icon-li"></span> Guifil CNC 10' hydraulic press brake</li>
-            </ul>
-
-            <ul class="twoCol two lastChild">
-                <li><span class="icon-li"></span> 5. TIG welding station</li>
-                <li><span class="icon-li"></span> Assembly station</li>
-                <li><span class="icon-li"></span> <a href="/metalwork/welding-laser-cutting">Visit Welding &amp; Laser Cutting Page</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="tab">
           <input id="tab-six" type="radio" name="tabs2">
           <label for="tab-six"><span class="icon-arrow-double"></span> General Fabrication</label>
           <div class="tab-content">
@@ -112,9 +93,12 @@
             <ul class="twoCol lastChild">
                 <li><span class="icon-li"></span> Summit 100-ton Obi, 35" x 25" bed, 17.5" shut height</li>
                 <li><span class="icon-li"></span> Strippit "Super 30" manual punch press (1)</li>
+                <li><span class="icon-li"></span> Edwards 4' electric/mechanical shear</li>
+                <li><span class="icon-li"></span> Pro-notch 9" x 90-degree notcher</li>
             </ul>
 
             <ul class="twoCol two lastChild">
+                <li><span class="icon-li"></span> Assembly Station</li>
                 <li><span class="icon-li"></span> Promecam 10’ CNC hydraulic press brake</li>
                 <li><span class="icon-li"></span> <a href="/metalwork/fabrication-assembly">Visit Fabrication &amp; Assembly Page</a></li>
             </ul>
@@ -171,7 +155,7 @@
             </ul>
 
             <ul class="twoCol two lastChild">
-                <li><span class="icon-li"></span> Grinding, sanding booth, and miscellaneous support equipment</li>
+                <li><span class="icon-li"></span> Time Savers straight line sander</li>
                 <li><span class="icon-li"></span> <a href="/metalwork/grinding-polishing">Visit Grinding &amp; Polishing Page</a></li>
             </ul>
 
@@ -184,7 +168,7 @@
           <div class="tab-content">
 
             <ul class="twoCol lastChild">
-                <li><span class="icon-li"></span> Forklift trucks (3)</li>
+                <li><span class="icon-li"></span> Forklift trucks (4)</li>
                 <li><span class="icon-li"></span> Ford pickup truck</li>
                 <li><span class="icon-li"></span> Wood pallet manufacturing equipment</li>
                 <li><span class="icon-li"></span> Automatic pallet stretch-wrapping machine</li>
