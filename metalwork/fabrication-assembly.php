@@ -18,7 +18,18 @@
 
         <h6>At Precision Metalwork, we have more than 40 years of experience manufacturing and assembling sheet metal fabrications from various types of metal—including aluminum, carbon steel, stainless steel, brass, copper, bronze, and other specialty metals—and our metal fabricating capabilities include bending, shearing, and soldering.</h6>
 
-        <p>We understand the needs required by a wide range of markets—such as the energy, trucking, recreational, and electronics industries. And because doing a great job every time the first time is important to us, quality control is a top priority. That’s why we ensure that all of our metal fabrication projects are compliant not only with our ISO 9001:2008 Quality Management System, but also with our customers’ standards, tolerances, and specifications.</p>
+        <div class="twoCol">
+
+            <a class="fancybox fancyboxImg" title="PMI misc parts" href="/_assets/img/fabrication-assembly.jpg"><img src="/_assets/img/fabrication-assembly.jpg" alt="PMI misc parts"><span class="icon-plus"></span></a>
+
+            <div class="text">
+
+                <p>We understand the needs required by a wide range of markets—such as the energy, trucking, recreational, and electronics industries. And because doing a great job every time the first time is important to us, quality control is a top priority. That’s why we ensure that all of our metal fabrication projects are compliant not only with our ISO 9001:2008 Quality Management System, but also with our customers’ standards, tolerances, and specifications.</p>
+
+            </div><!--text-->
+
+        </div><!--twoCol-->
+
 
     </div><!--inner-->
 
