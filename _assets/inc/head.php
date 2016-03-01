@@ -11,11 +11,6 @@
 	<title>Precision Metalwork, Inc. | Nashville, TN</title>
 	<meta name="description" content="Precision Metalwork manufactures, shears, punches holes, laser cuts, bends, welds, assembles and paints sheet metal products and complete assemblies.">
 	
-	<!--[if lt IE 8]>
-	    <p class="browsehappy">Your browser is ANCIENT! <a href="http://browsehappy.com/" target="_blank">Click here</a> to improve your experience.</p>
-	    <img class="browsehappyimg" src="/_assets/img/apple-touch-57.png"/>
-	<![endif]-->
-
 	<!-- icons -->
 	<link rel="shortcut icon" href="/_assets/img/favicon.ico">
 	<link rel="apple-touch-icon" href="/_assets/img/apple-touch-57.png">

@@ -23,6 +23,22 @@
 
         <div class="twoCol">
 
+            <a class="fancybox fancyboxImg" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/lightbox-laser.jpg"><img src="/_assets/img/lightbox-laser.jpg" alt="Trumpf TruLaser 3030"><span class="icon-plus"></span></a>
+
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-laser-cutting.php'); //image gallery?>
+
+            <div class="text">
+
+                <h2><span class="icon-arrow-double"></span> Laser Cutting</h2>
+
+                <p>Our <a class="fancybox" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/lightbox-trumpf.jpg">Our Trumpf TruLaser 3030</a> laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
+
+            </div><!--text-->
+
+        </div><!--twoCol-->
+
+        <div class="twoCol">
+
             <a class="fancybox fancyboxImg" rel="press-brakes" title="Press Brakes" href="/_assets/img/lightbox-press-brakes.jpg"><img src="/_assets/img/lightbox-press-brakes.jpg" alt="press brakes"><span class="icon-plus"></span></a>
 
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-press-brakes.php'); //image gallery?>
@@ -48,22 +64,6 @@
                 <h2><span class="icon-arrow-double"></span> Punch Presses</h2>
 
                 <p>Our <a class="fancybox" rel="punch-presses" title="Nisshinbo HIQ-1250 CNC Turret Punch Press" href="/_assets/img/lightbox-nisshinbo.jpg">Nisshinbo HIQ-1250 CNC Turret Punch Press</a> and <a class="fancybox" rel="punch-presses" title="Strippit/LVD Global 20 CNC Turret Punch Press" href="/_assets/img/lightbox-strippit.jpg">Strippit/LVD Global 20 CNC Turret Punch Press</a> provide some of the fastest production speeds while delivering high-quality results.</p>
-
-            </div><!--text-->
-
-        </div><!--twoCol-->
-
-        <div class="twoCol">
-
-            <a class="fancybox fancyboxImg" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/lightbox-laser.jpg"><img src="/_assets/img/lightbox-laser.jpg" alt="Trumpf TruLaser 3030"><span class="icon-plus"></span></a>
-
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-laser-cutting.php'); //image gallery?>
-
-            <div class="text">
-
-                <h2><span class="icon-arrow-double"></span> Laser Cutting</h2>
-
-                <p>Our <a class="fancybox" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/lightbox-trumpf.jpg">Our Trumpf TruLaser 3030</a> laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
 
             </div><!--text-->
 
@@ -186,10 +186,10 @@
 
     $(document).ready(function() {
         $('.fancybox').fancybox();
-      $('.flexslider').flexslider({
-        minItems: 1,
-        maxItems: 5
-      });
+        $('.flexslider').flexslider({
+            minItems: 2,
+            maxItems: 5
+        });
     });
 
 </script>

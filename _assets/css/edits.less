@@ -1,0 +1,181 @@
+@yellow:		#d6a94d;
+@blue:			#003755;
+
+.transition (@prop: all, @time: 400ms, @ease: ease) {
+    -webkit-transition: @prop @time @ease;
+    -moz-transition: @prop @time @ease;
+    -o-transition: @prop @time @ease;
+    -ms-transition: @prop @time @ease;
+    transition: @prop @time @ease;
+}
+
+#header {
+	position: relative;
+	.inner {
+		position: relative;
+		div {
+			top: 380px;
+			position: absolute;
+			h1 {
+				margin-bottom: 30px;
+			}
+		}		
+	}
+}
+section.white {
+	background-color: #fff;
+}
+section.dark {
+	h2, h4 {
+		text-align: center;
+		color: #fff;
+	}
+	h3 {
+		font-weight: 300;
+		text-transform: none;
+		padding-bottom: 35px;
+		span {
+			color: @yellow;
+		}
+	}
+}
+.grid p {
+	margin: 30px 0 0;
+	text-align: right;
+}
+body {
+  background:#0b1d2a;
+}
+
+.arrows {
+	width: 60px;
+	height: 72px;
+	position: absolute;
+	left: 50%;
+	margin-left: -30px;
+	bottom: 20px;
+}
+
+.arrows path {
+	stroke: @yellow;
+	fill: transparent;
+	stroke-width: 2px;	
+	animation: arrow 2s infinite;
+	-webkit-animation: arrow 2s infinite; 
+}
+
+@keyframes arrow {
+	0% {opacity:0}
+	40% {opacity:1}
+	80% {opacity:0}
+	100% {opacity:0}
+}
+
+@-webkit-keyframes arrow {
+	0% {opacity:0}
+	40% {opacity:1}
+	80% {opacity:0}
+	100% {opacity:0}
+}
+
+.arrows path.a1 {
+	animation-delay:-1s;
+	-webkit-animation-delay:-1s;
+}
+
+.arrows path.a2 {
+	animation-delay:-0.5s;
+	-webkit-animation-delay:-0.5s;
+}
+
+.arrows path.a3 {	
+	animation-delay:0s;
+	-webkit-animation-delay:0s;
+}
+.four article a {
+	&:hover {
+		border-bottom: none;
+		.icon-punch {
+			.transition;
+			.path1::before, .path2::before, .path4::before, .path6::before {
+				color: @blue;
+			}
+		}
+		.icon-laser .path1::before {
+			color: @blue;
+			.transition;
+		}
+		.icon-grinding .path1::before {
+			color: @blue;
+			.transition;
+		}
+		.icon-assembly .path1::before {
+			color: @blue;
+			.transition;
+		}
+		.icon-wet-paint .path1::before {
+			color: @blue;
+			.transition;
+		}
+		.icon-dry-paint .path1::before {
+			color: @blue;
+			.transition;
+		}
+	}
+}
+.icon-iso-badge {
+	font-size: 13.5em;
+}
+.tab a {
+	color: @yellow;
+	&:hover {
+		border-bottom-color: @yellow;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

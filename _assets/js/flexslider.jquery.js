@@ -816,26 +816,26 @@
     animation: "slide",              //String: Select your animation type, "fade" or "slide"
     easing: "swing",               //{NEW} String: Determines the easing method used in jQuery transitions. jQuery easing plugin is supported!
     direction: "horizontal",        //String: Select the sliding direction, "horizontal" or "vertical"
-    reverse: true,                 //{NEW} Boolean: Reverse the animation direction
+    reverse: false,                 //{NEW} Boolean: Reverse the animation direction
     animationLoop: true,             //Boolean: Should the animation loop? If false, directionNav will received "disable" classes at either end
     smoothHeight: false,            //{NEW} Boolean: Allow height of the slider to animate smoothly in horizontal mode
     startAt: 0,                     //Integer: The slide that the slider should start on. Array notation (0 = first slide)
     slideshow: true,                //Boolean: Animate slider automatically
-    slideshowSpeed: 7000,           //Integer: Set the speed of the slideshow cycling, in milliseconds
+    slideshowSpeed: 6000,           //Integer: Set the speed of the slideshow cycling, in milliseconds
     animationSpeed: 600,            //Integer: Set the speed of animations, in milliseconds
     initDelay: 0,                   //{NEW} Integer: Set an initialization delay, in milliseconds
     randomize: true,               //Boolean: Randomize slide order
 
     // Usability features
-    pauseOnAction: true,            //Boolean: Pause the slideshow when interacting with control elements, highly recommended.
-    pauseOnHover: true,            //Boolean: Pause the slideshow when hovering over slider, then resume when no longer hovering
+    pauseOnAction: false,            //Boolean: Pause the slideshow when interacting with control elements, highly recommended.
+    pauseOnHover: false,            //Boolean: Pause the slideshow when hovering over slider, then resume when no longer hovering
     useCSS: true,                   //{NEW} Boolean: Slider will use CSS3 transitions if available
     touch: true,                    //{NEW} Boolean: Allow touch swipe navigation of the slider on touch-enabled devices
     video: false,                   //{NEW} Boolean: If using video in the slider, will prevent CSS3 3D Transforms to avoid graphical glitches
 
     // Primary Controls
     controlNav: false,               //Boolean: Create navigation for paging control of each clide? Note: Leave true for manualControls usage
-    directionNav: true,             //Boolean: Create navigation for previous/next navigation? (true/false)
+    directionNav: false,             //Boolean: Create navigation for previous/next navigation? (true/false)
     prevText: "Previous",           //String: Set the text for the "previous" directionNav item
     nextText: "Next",               //String: Set the text for the "next" directionNav item
 
@@ -854,11 +854,11 @@
     asNavFor: "",                   //{NEW} Selector: Internal property exposed for turning the slider into a thumbnail navigation for another slider
 
     // Carousel Options
-    itemWidth: 230,                   //{NEW} Integer: Box-model width of individual carousel items, including horizontal borders and padding.
+    itemWidth: 100,                   //{NEW} Integer: Box-model width of individual carousel items, including horizontal borders and padding.
     itemMargin: 10,                  //{NEW} Integer: Margin between carousel items.
-    minItems: 0,                    //{NEW} Integer: Minimum number of carousel items that should be visible. Items will resize fluidly when below this.
-    maxItems: 0,                    //{NEW} Integer: Maxmimum number of carousel items that should be visible. Items will resize fluidly when above this limit.
-    move: 0,                        //{NEW} Integer: Number of carousel items that should move on animation. If 0, slider will move all visible items.
+    minItems: 1,                    //{NEW} Integer: Minimum number of carousel items that should be visible. Items will resize fluidly when below this.
+    maxItems: 5,                    //{NEW} Integer: Maxmimum number of carousel items that should be visible. Items will resize fluidly when above this limit.
+    move: 1,                        //{NEW} Integer: Number of carousel items that should move on animation. If 0, slider will move all visible items.
 
     // Callback API
     start: function(){},            //Callback: function(slider) - Fires when the slider loads the first slide
