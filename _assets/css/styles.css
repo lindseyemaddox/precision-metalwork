@@ -3222,6 +3222,18 @@ body {
 .tab a:hover {
   border-bottom-color: #d6a94d;
 }
+.vendors {
+  margin-bottom: 0;
+}
+.vendors li {
+  display: inline-block;
+  vertical-align: middle;
+  width: 17%;
+  margin: 0 1%;
+}
+.vendors li img {
+  width: 100%;
+}
 /*
  * jQuery FlexSlider v2.0
  * http://www.woothemes.com/flexslider/
@@ -3256,6 +3268,7 @@ body {
   display: none;
   -webkit-backface-visibility: hidden;
   padding: 0;
+  margin: 0 20px;
 }
 /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides img {

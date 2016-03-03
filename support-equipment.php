@@ -1,5 +1,4 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
-<script type="text/javascript" src="/_assets/js/flexslider.jquery.js"></script>
 <script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
@@ -146,23 +145,19 @@
 
         <h3>Our Vendors</h3>
 
-        <div class="flexslider carousel">
+        <ul class="vendors">
 
-            <ul class="slides">
+            <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
 
-                <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
+            <li><img src="/_assets/img/customer-wsc.png" alt="Precision Metalwork customer WSC logo" /></li>
 
-                <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>
+            <li><img src="/_assets/img/customer-essentra.png" alt="Precision Metalwork customer Essentra logo"/></li>
 
-                <li><img src="/_assets/img/customer-essentra.png" alt="Precision Metalwork customer Essentra logo"/></li>
+            <li><img src="/_assets/img/customer-phoenix.png" alt="Precision Metalwork customer Phoenix logo"/></li>
 
-                <li><img src="/_assets/img/customer-phoenix.png" alt="Precision Metalwork customer Phoenix logo"/></li>
+            <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>
 
-                <li><img src="/_assets/img/customer-wsc.png" alt="Precision Metalwork customer WSC logo" /></li>
-
-            </ul>
-
-        </div><!--flexslider-->
+        </ul>
 
     </div><!--inner-->
 
@@ -186,10 +181,6 @@
 
     $(document).ready(function() {
         $('.fancybox').fancybox();
-        $('.flexslider').flexslider({
-            minItems: 2,
-            maxItems: 5
-        });
     });
 
 </script>
