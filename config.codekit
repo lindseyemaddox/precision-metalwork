@@ -111,9 +111,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/css\/master.less",
-		"outputAbbreviatedPath": "\/_assets\/css\/styles.css",
+		"outputAbbreviatedPath": "\/_assets\/css\/master.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
 		"relativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
@@ -144,7 +144,7 @@
 		},
 	"\/_assets\/css\/styles.css": {
 		"fileType": 16,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/css\/styles.css",
 		"outputAbbreviatedPath": "No Output Path",
@@ -301,6 +301,17 @@
 		"initialSize": 5784,
 		"inputAbbreviatedPath": "\/_assets\/img\/customer-wsc.png",
 		"outputAbbreviatedPath": "\/_assets\/img\/customer-wsc.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fabrication-assembly.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1282,
+		"inputAbbreviatedPath": "\/_assets\/img\/fabrication-assembly.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fabrication-assembly.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1163,6 +1174,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/galleries\/Trumpf-TruLaser1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 295543,
+		"inputAbbreviatedPath": "\/_assets\/img\/galleries\/Trumpf-TruLaser1.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/galleries\/Trumpf-TruLaser1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/galleries\/Trumpf-TruLaser3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 279973,
+		"inputAbbreviatedPath": "\/_assets\/img\/galleries\/Trumpf-TruLaser3.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/galleries\/Trumpf-TruLaser3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/galleries\/Trumpf-TruLaser4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 345044,
+		"inputAbbreviatedPath": "\/_assets\/img\/galleries\/Trumpf-TruLaser4.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/galleries\/Trumpf-TruLaser4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/galleries\/Trumpf-TruLaser6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 306045,
+		"inputAbbreviatedPath": "\/_assets\/img\/galleries\/Trumpf-TruLaser6.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/galleries\/Trumpf-TruLaser6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/galleries\/Welding1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1665,6 +1720,17 @@
 		"initialSize": 23299,
 		"inputAbbreviatedPath": "\/_assets\/img\/subhead.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/subhead.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/Trumpf-TruLaser-3030.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303915,
+		"inputAbbreviatedPath": "\/_assets\/img\/Trumpf-TruLaser-3030.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/Trumpf-TruLaser-3030.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
