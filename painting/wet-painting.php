@@ -1,7 +1,7 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
 
     <!-- FLEXSLIDER CAROUSEL -->
-    <script type="text/javascript" src="/_assets/js/flexslider.jquery.js"></script>
+    <script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
@@ -23,7 +23,19 @@
 
         <h2><span class="icon-arrow-double"></span> When to Choose Wet Paint</h2>
 
-        <p>Wet paint is ideal for products that require thin coats of paint and/or can’t withstand the high oven temperates associated with powder coating. Wet painting also provides protection as well as custom decorative finishes in a wide range of colors that aren’t always available in powder coating. Keep in mind, it’s important to consider paint’s drying and curing times, as these times can vary anywhere from several days to several weeks.</p>
+        <div class="twoCol">
+
+            <a class="fancybox fancyboxImg" title="Wet Paint Line" rel="wet-paint" href="/_assets/img/wet-paint-line.jpg"><img src="/_assets/img/wet-paint-line.jpg" alt="Wet Paint Line"><span class="icon-plus"></span></a>
+
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-wet-paint.php'); //image gallery?>
+
+            <div class="text">
+
+                <p>Wet paint is ideal for products that require thin coats of paint and/or can’t withstand the high oven temperates associated with powder coating. Wet painting also provides protection as well as custom decorative finishes in a wide range of colors that aren’t always available in powder coating. Keep in mind, it’s important to consider paint’s drying and curing times, as these times can vary anywhere from several days to several weeks.</p>
+
+            </div><!--text-->
+
+        </div><!--twoCol-->
 
     </div><!--inner-->
 
@@ -80,12 +92,10 @@
 </section><!--cta-->
 
 <script type="text/javascript">
-
     $(document).ready(function() {
-      $('.flexslider').flexslider({
-      });
+        $('.fancybox').fancybox();
     });
-
 </script>
+
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>

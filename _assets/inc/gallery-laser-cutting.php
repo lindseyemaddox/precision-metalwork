@@ -1,6 +1,6 @@
 <div class="hidden">
-	<a class="fancybox" rel="laser-cutting" href="/_assets/img/galleries/Trumpf-TruLaser1.jpg" title="TRUMPF TRULASER"><img alt="Trumpf TruLaser 3030 Laser Cutting Machine" class="lazy" property="Photograph" src="/_assets/img/galleries/Trumpf-TruLaser1.jpg"/></a>
 	<a class="fancybox" rel="laser-cutting" href="/_assets/img/galleries/Trumpf-TruLaser3.jpg" title="TRUMPF TRULASER"><img alt="Trumpf TruLaser Laser Cutting Machine" class="lazy" property="Photograph" src="/_assets/img/galleries/Trumpf-TruLaser3.jpg"/></a>
 	<a class="fancybox" rel="laser-cutting" href="/_assets/img/galleries/Trumpf-TruLaser4.jpg" title="TRUMPF TRULASER"><img alt="Trumpf TruLaser Laser" class="lazy" property="Photograph" src="/_assets/img/galleries/Trumpf-TruLaser4.jpg"/></a>
+	<a class="fancybox" rel="laser-cutting" href="/_assets/img/galleries/Trumpf-TruLaser1.jpg" title="TRUMPF TRULASER"><img alt="Trumpf TruLaser 3030 Laser Cutting Machine" class="lazy" property="Photograph" src="/_assets/img/galleries/Trumpf-TruLaser1.jpg"/></a>
 	<a class="fancybox" rel="laser-cutting" href="/_assets/img/galleries/Trumpf-TruLaser6.jpg" title="TRUMPF TRULASER"><img alt="TruLaser 3030 Machine" class="lazy" property="Photograph" src="/_assets/img/galleries/Trumpf-TruLaser6.jpg"/></a>
 </div>

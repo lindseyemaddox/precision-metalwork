@@ -18,9 +18,21 @@
 
         <h6>Precision Metalwork is here to address your metal grinding and polishing needs quickly and efficiently while delivering exceptional products and services. You can count on our high-quality, precision machinery and technology coupled with our metal grinding, polishing, and buffing services help ensure a great finish every time.</h6>
 
-        <h2><span class="icon-arrow-double"></span> Benefits of Metal Grinding &amp; Polishing</h2>
+        <div class="twoCol">
 
-        <p>Metal grinding, buffing, and polishing are ideal for cleaning and preparing different types of metal for <a href="/painting/">painting</a>, <a href="/metalwork/welding-laser-cutting">welding</a>, or other <a href="/metalwork/fabrication-assembly">metal fabrication services</a>. Grinding and polishing are also great for removing rust and the effects of oxidation from metals, such as stainless steel, aluminum, copper, and brass. </p>
+            <a class="fancybox fancyboxImg" title="Timesavers Series 1200" rel="grinding" href="/_assets/img/timesavers.jpg"><img src="/_assets/img/timesavers.jpg" alt="Timesavers Series 1200"><span class="icon-plus"></span></a>
+
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-grinding.php'); //image gallery?>
+
+            <div class="text">
+
+                <h2><span class="icon-arrow-double"></span> Benefits of Metal Grinding &amp; Polishing</h2>
+        
+                <p>Metal grinding, buffing, and polishing are ideal for cleaning and preparing different types of metal for <a href="/painting/">painting</a>, <a href="/metalwork/welding-laser-cutting">welding</a>, or other <a href="/metalwork/fabrication-assembly">metal fabrication services</a>. Grinding and polishing are also great for removing rust and the effects of oxidation from metals, such as stainless steel, aluminum, copper, and brass. </p>
+
+            </div><!--text-->
+
+        </div><!--twoCol-->
 
     </div><!--inner-->
 

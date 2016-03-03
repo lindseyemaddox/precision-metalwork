@@ -22,7 +22,7 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/lightbox-laser.jpg"><img src="/_assets/img/lightbox-laser.jpg" alt="Trumpf TruLaser 3030"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/trulaser-3030.jpg"><img src="/_assets/img/trulaser-3030.jpg" alt="Trumpf TruLaser 3030"><span class="icon-plus"></span></a>
 
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-laser-cutting.php'); //image gallery?>
 
@@ -30,7 +30,7 @@
 
                 <h2><span class="icon-arrow-double"></span> Laser Cutting</h2>
 
-                <p>Our <a class="fancybox" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/lightbox-trumpf.jpg">Our Trumpf TruLaser 3030</a> laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
+                <p>Our <a class="fancybox" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/trulaser-3030.jpg">Our Trumpf TruLaser 3030</a> laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
 
             </div><!--text-->
 
@@ -86,7 +86,7 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="wet-paint" title="Wet Paint Line" href="/_assets/img/lightbox-wet-paint.jpg"><img src="/_assets/img/lightbox-wet-paint.jpg" alt="wet painting line"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg" rel="wet-paint" title="USE Wet Paint Line" href="/_assets/img/use-wet-paint-line.jpg"><img src="/_assets/img/use-wet-paint-line.jpg" alt="wet painting line"><span class="icon-plus"></span></a>
 
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-wet-paint.php'); //image gallery?>
 
@@ -102,7 +102,7 @@
 
         <div class="twoCol last">
 
-            <a class="fancybox fancyboxImg" rel="powder" title="Powder Coat Paint Line" href="/_assets/img/lightbox-powder.jpg"><img src="/_assets/img/lightbox-powder.jpg" alt="powder painting line"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg" rel="powder" title="Powder Coat Paint Line" href="/_assets/img/five-stage-wash-system.jpg"><img src="/_assets/img/five-stage-wash-system.jpg" alt="powder painting line"><span class="icon-plus"></span></a>
 
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-powder.php'); //image gallery?>
 

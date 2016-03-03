@@ -21,13 +21,23 @@
 
         <p>Our <a class="fancybox" rel="powder" href="/_assets/img/lightbox-gema-interior.jpg" title="GEMA Powder Coat Paint Line interior">GEMA Powder Coat Paint Line</a> has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean, and excellent coating results.</p>
 
-        <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-powder.php'); //image gallery?>
+        <div class="twoCol">
 
-        <h2><span class="icon-arrow-double"></span> Benefits of Powder Coat Painting</h2>
+            <a class="fancybox fancyboxImg" title="Paint Booth" rel="powder" href="/_assets/img/paint-booth.jpg"><img src="/_assets/img/paint-booth.jpg" alt="Paint Booth"><span class="icon-plus"></span></a>
 
-        <p>The benefits of powder coat painting include resistance to chemicals, UV light, and impacts; product flexibility; and electric insulation. These benefits make powder coat paint ideal for industries that experience regular “wear and tear,” such as the trucking and transportation industries.</p>
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-powder.php'); //image gallery?>
 
-        <p>We also provide wet painting services for metal products and assemblies that require thin coats of paint and/or can’t withstand the high temperatures associated with powder coating. Wet painting also provides protection as well as decorative finishes.</p>
+            <div class="text">
+
+                <h2><span class="icon-arrow-double"></span> Benefits of Powder Coat Painting</h2>
+        
+                <p>The benefits of powder coat painting include resistance to chemicals, UV light, and impacts; product flexibility; and electric insulation. These benefits make powder coat paint ideal for industries that experience regular “wear and tear,” such as the trucking and transportation industries.</p>
+
+                <p>We also provide wet painting services for metal products and assemblies that require thin coats of paint and/or can’t withstand the high temperatures associated with powder coating. Wet painting also provides protection as well as decorative finishes.</p>
+
+            </div><!--text-->
+
+        </div><!--twoCol-->
 
     </div><!--inner-->
 
@@ -39,23 +49,19 @@
 
         <h3>Our Vendors</h3>
 
-        <div class="flexslider carousel">
+        <ul class="vendors">
 
-            <ul class="slides">
+            <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
 
-                <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
+            <li><img src="/_assets/img/customer-essentra.png" alt="Precision Metalwork customer Essentra logo"/></li>
 
-                <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>
+            <li><img src="/_assets/img/customer-phoenix.png" alt="Precision Metalwork customer Phoenix logo"/></li>
 
-                <li><img src="/_assets/img/customer-essentra.png" alt="Precision Metalwork customer Essentra logo"/></li>
+            <li><img src="/_assets/img/customer-wsc.png" alt="Precision Metalwork customer WSC logo" /></li>
 
-                <li><img src="/_assets/img/customer-phoenix.png" alt="Precision Metalwork customer Phoenix logo"/></li>
+            <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>
 
-                <li><img src="/_assets/img/customer-wsc.png" alt="Precision Metalwork customer WSC logo" /></li>
-
-            </ul>
-
-        </div><!--flexslider-->
+        </ul>
 
     </div><!--inner-->
 

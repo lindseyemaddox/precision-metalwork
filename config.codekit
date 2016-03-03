@@ -102,6 +102,15 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/_assets\/css\/master.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/css\/master.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_assets\/css\/master.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 0,
@@ -111,9 +120,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/css\/master.less",
-		"outputAbbreviatedPath": "\/_assets\/css\/master.css",
+		"outputAbbreviatedPath": "\/_assets\/css\/styles.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0,
 		"relativeURLS": 0,
 		"shouldRunAutoprefixer": 0,
@@ -144,7 +153,7 @@
 		},
 	"\/_assets\/css\/styles.css": {
 		"fileType": 16,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/css\/styles.css",
 		"outputAbbreviatedPath": "No Output Path",
@@ -345,6 +354,17 @@
 		"initialSize": 6553,
 		"inputAbbreviatedPath": "\/_assets\/img\/fancybox_sprite@2x.png",
 		"outputAbbreviatedPath": "\/_assets\/img\/fancybox_sprite@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/five-stage-wash-system.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 548146,
+		"inputAbbreviatedPath": "\/_assets\/img\/five-stage-wash-system.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/five-stage-wash-system.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1350,6 +1370,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/grinding1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 463528,
+		"inputAbbreviatedPath": "\/_assets\/img\/grinding1.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/grinding1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/grinding2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 541539,
+		"inputAbbreviatedPath": "\/_assets\/img\/grinding2.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/grinding2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/grinding3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 505822,
+		"inputAbbreviatedPath": "\/_assets\/img\/grinding3.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/grinding3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/li.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1511,6 +1564,17 @@
 		"initialSize": 504097,
 		"inputAbbreviatedPath": "\/_assets\/img\/lightbox-wet-paint.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/lightbox-wet-paint.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/paint-booth.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 345466,
+		"inputAbbreviatedPath": "\/_assets\/img\/paint-booth.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/paint-booth.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1724,6 +1788,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/timesavers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 493130,
+		"inputAbbreviatedPath": "\/_assets\/img\/timesavers.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/timesavers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/trulaser-3030.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 303915,
+		"inputAbbreviatedPath": "\/_assets\/img\/trulaser-3030.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/trulaser-3030.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/Trumpf-TruLaser-3030.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1731,6 +1817,17 @@
 		"initialSize": 303915,
 		"inputAbbreviatedPath": "\/_assets\/img\/Trumpf-TruLaser-3030.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/Trumpf-TruLaser-3030.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/use-wet-paint-line.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 477535,
+		"inputAbbreviatedPath": "\/_assets\/img\/use-wet-paint-line.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/use-wet-paint-line.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1753,6 +1850,17 @@
 		"initialSize": 375522,
 		"inputAbbreviatedPath": "\/_assets\/img\/Welding2.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/Welding2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/wet-paint-line.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 477535,
+		"inputAbbreviatedPath": "\/_assets\/img\/wet-paint-line.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/wet-paint-line.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1780,6 +1888,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_assets\/inc\/gallery-assembly.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_assets\/inc\/gallery-grinding.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_assets\/inc\/gallery-grinding.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
