@@ -1,5 +1,6 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
 <script type="text/javascript" src="/_assets/js/smoothscroll.js"></script>
+<script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
     <section id="header">
@@ -213,5 +214,11 @@
         </div><!--inner-->
 
     </section><!--slider-->
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.fancybox').fancybox();
+    });
+</script>
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>

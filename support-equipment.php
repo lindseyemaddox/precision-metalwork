@@ -38,7 +38,7 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="press-brakes" title="Press Brakes" href="/_assets/img/lightbox-press-brakes.jpg"><img src="/_assets/img/lightbox-press-brakes.jpg" alt="press brakes"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg" rel="press-brakes" title="Press Brakes" href="/_assets/img/trublend3100.jpg"><img src="/_assets/img/trublend3100.jpg" alt="press brakes"><span class="icon-plus"></span></a>
 
             <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-press-brakes.php'); //image gallery?>
 

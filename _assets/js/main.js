@@ -1,15 +1,13 @@
-// JavaScript Document
-
-// set initial variables
 var $showNav,
+	$showMenu,
+	$header,
 	$nav;
 
-
-// function to set dom vars, etc that will not change
 function initVars() {
-
 	$showNav 	= $('nav span#nav');
-	$nav 	= $('nav > ul');
+	$nav 		= $('nav > ul#mainNav');
+	$showMenu	= $('span#nav');
+	$header		= $('#header');
 }
 
 function showDrop(){
@@ -24,16 +22,25 @@ function showDrop(){
 	});
 }
 
-
-
 function showNav(){
-	$showNav.click(function(){
-			$nav.toggleClass('expanded');
+	$showMenu.click(function(){
+		if ($nav.hasClass('expand')) {
+			menuOut();
+		} else {
+			menuIn();
+		}
 		return false;
 	});
 }
+function menuOut() {
+	$nav.removeClass('expand');
+	$header.removeClass('darken');
+}
+function menuIn() {
+	$nav.addClass('expand');
+	$header.addClass('darken');
+}
 
-// this function fixes placeholders in browsers that don't support it
 function initPlaceholders() {
 	if ($('input[placeholder]').length > 0) {
 		if (!placeholderSupported()) {
@@ -65,9 +72,6 @@ function placeholderSupported() {
     test = document.createElement('input');
     return ('placeholder' in test);
 }
-
-
-
 
 function firstLoad() {
 	initVars();
