@@ -3797,7 +3797,7 @@ html[xmlns] .slides {
 }
 @media screen and (max-width: 500px) {
   header nav {
-    width: 100%;
+    width: 40%;
   }
   header nav ul.expand {
     margin-right: 10%;
@@ -3831,6 +3831,7 @@ html[xmlns] .slides {
   }
   header nav {
     top: -37px;
+    width: 50%;
   }
   header .inner #contactLink a {
     font-size: .7em;
