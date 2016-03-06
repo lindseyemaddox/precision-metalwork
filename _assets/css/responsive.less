@@ -85,14 +85,21 @@
   		margin-top: -60px;
   	}
   }
+  #opacity.darken {
+  	opacity: .1;
+    -webkit-transition: all, 400ms, ease;
+    -moz-transition: all, 400ms, ease;
+    -o-transition: all, 400ms, ease;
+    -ms-transition: all, 400ms, ease;
+    transition: all, 400ms, ease;	  		
+  }
   #metalwork-link {
   	display: none;
   }
   header {
   	height: 60px;
 	  div#mainLogo {
-	  	width: 60%;
-	  	margin: -35px 0 0 20%;
+	  	margin: -35px 0 0 0;
 		a {
 			display: block;
 			text-align: center;
@@ -246,6 +253,12 @@
 	section.white, section.dark {
 		padding: 60px 0;
 	}
+	.highlight span {
+		width: 15%;
+	}
+	.highlight .text {
+		width: 84%;
+	}
 }
 
 @media screen and (max-width: 700px) {
@@ -276,6 +289,9 @@
 	}
 	.grid .portfolioItem img {
 		opacity: .2;
+	}
+	.dark.slider {
+		display: none;
 	}
 }
 
@@ -344,6 +360,25 @@
 			line-height: 1.7em;
 			text-align: left;
 		}
+	}
+	ul.twoCol {
+		width: 100%;
+		margin: 0;
+		&.two {
+			margin: 0 0 50px;
+		}
+	}
+	h2 {
+		padding-bottom: 40px;
+	}
+	ul.twoCol.two {
+		margin-bottom: 0;
+	}
+	.highlight span {
+		width: 20%;
+	}
+	.highlight .text {
+		width: 79%;
 	}
 }
 
@@ -457,5 +492,11 @@
 	.subfooter p {
 		font-size: .8em;
 		text-align: center;
+	}
+	.highlight span {
+		width: 30%;
+	}
+	.highlight .text {
+		width: 68%;
 	}
 }

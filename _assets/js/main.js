@@ -1,6 +1,7 @@
 var $showNav,
 	$showMenu,
 	$header,
+	$opacity,
 	$nav;
 
 function initVars() {
@@ -8,6 +9,7 @@ function initVars() {
 	$nav 		= $('nav > ul#mainNav');
 	$showMenu	= $('span#nav');
 	$header		= $('#header');
+	$opacity	= $('#opacity');
 }
 
 function showDrop(){
@@ -35,10 +37,12 @@ function showNav(){
 function menuOut() {
 	$nav.removeClass('expand');
 	$header.removeClass('darken');
+	$opacity.removeClass('darken');
 }
 function menuIn() {
 	$nav.addClass('expand');
 	$header.addClass('darken');
+	$opacity.addClass('darken');
 }
 
 function initPlaceholders() {

@@ -3256,6 +3256,9 @@ footer a {
 .four article .icon-arrow-double:hover {
   color: #003755;
 }
+#footerLogo {
+  text-align: center;
+}
 /*
  * jQuery FlexSlider v2.0
  * http://www.woothemes.com/flexslider/
@@ -3534,6 +3537,14 @@ html[xmlns] .slides {
   #header video {
     margin-top: -60px;
   }
+  #opacity.darken {
+    opacity: .1;
+    -webkit-transition: all, 400ms, ease;
+    -moz-transition: all, 400ms, ease;
+    -o-transition: all, 400ms, ease;
+    -ms-transition: all, 400ms, ease;
+    transition: all, 400ms, ease;
+  }
   #metalwork-link {
     display: none;
   }
@@ -3541,8 +3552,7 @@ html[xmlns] .slides {
     height: 60px;
   }
   header div#mainLogo {
-    width: 60%;
-    margin: -35px 0 0 20%;
+    margin: -35px 0 0 0;
   }
   header div#mainLogo a {
     display: block;
@@ -3697,6 +3707,12 @@ html[xmlns] .slides {
   section.dark {
     padding: 60px 0;
   }
+  .highlight span {
+    width: 15%;
+  }
+  .highlight .text {
+    width: 84%;
+  }
 }
 @media screen and (max-width: 700px) {
   #header video {
@@ -3726,6 +3742,9 @@ html[xmlns] .slides {
   }
   .grid .portfolioItem img {
     opacity: .2;
+  }
+  .dark.slider {
+    display: none;
   }
 }
 @media screen and (max-width: 600px) {
@@ -3793,6 +3812,25 @@ html[xmlns] .slides {
     font-size: 1.3em;
     line-height: 1.7em;
     text-align: left;
+  }
+  ul.twoCol {
+    width: 100%;
+    margin: 0;
+  }
+  ul.twoCol.two {
+    margin: 0 0 50px;
+  }
+  h2 {
+    padding-bottom: 40px;
+  }
+  ul.twoCol.two {
+    margin-bottom: 0;
+  }
+  .highlight span {
+    width: 20%;
+  }
+  .highlight .text {
+    width: 79%;
   }
 }
 @media screen and (max-width: 500px) {
@@ -3905,5 +3943,11 @@ html[xmlns] .slides {
   .subfooter p {
     font-size: .8em;
     text-align: center;
+  }
+  .highlight span {
+    width: 30%;
+  }
+  .highlight .text {
+    width: 68%;
   }
 }
