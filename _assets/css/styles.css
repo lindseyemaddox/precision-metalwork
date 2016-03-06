@@ -3698,6 +3698,15 @@ html[xmlns] .slides {
   .btn {
     font-size: 1em;
   }
+  .twoCol a.fancyboxImg {
+    width: 40%;
+  }
+  .twoCol .text {
+    width: 55%;
+  }
+  p {
+    margin-bottom: 30px;
+  }
 }
 @media screen and (max-width: 800px) {
   #header video {
@@ -3832,6 +3841,22 @@ html[xmlns] .slides {
   .highlight .text {
     width: 79%;
   }
+  .twoCol a.fancyboxImg {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .twoCol .text {
+    width: 100%;
+  }
+  .cta h5 {
+    margin-top: .5em;
+  }
+  .cta h5 span {
+    display: none;
+  }
+  .cta .btn {
+    margin-top: 0;
+  }
 }
 @media screen and (max-width: 500px) {
   header nav {
@@ -3949,5 +3974,17 @@ html[xmlns] .slides {
   }
   .highlight .text {
     width: 68%;
+  }
+  .cta h5 {
+    float: none;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .cta .btn {
+    float: none;
+    width: 100%;
+    letter-spacing: 1px;
+    display: block;
+    text-align: center;
   }
 }
