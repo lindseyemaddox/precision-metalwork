@@ -3259,6 +3259,12 @@ footer a {
 #footerLogo {
   text-align: center;
 }
+.button-group {
+  text-align: center;
+}
+header .inner #contactLink {
+  z-index: 1;
+}
 /*
  * jQuery FlexSlider v2.0
  * http://www.woothemes.com/flexslider/
@@ -3463,6 +3469,9 @@ html[xmlns] .slides {
   #header .inner div {
     top: 360px;
   }
+  .button-group button {
+    padding: 9px 11px;
+  }
 }
 @media screen and (max-width: 1200px) {
   html {
@@ -3510,6 +3519,12 @@ html[xmlns] .slides {
   }
   .grid .portfolioItem .container {
     top: 30%;
+  }
+  .button-group button {
+    letter-spacing: 1px;
+  }
+  .info .socials a > span {
+    font-size: 3em;
   }
 }
 @media screen and (max-width: 1100px) {
@@ -3646,6 +3661,9 @@ html[xmlns] .slides {
   .grid .portfolioItem {
     height: 180px;
   }
+  .button-group button {
+    letter-spacing: 0;
+  }
 }
 @media screen and (max-width: 1000px) {
   html {
@@ -3662,6 +3680,13 @@ html[xmlns] .slides {
   }
   h3 {
     padding-bottom: 35px;
+  }
+  .button-group button {
+    padding: 9px 10px;
+  }
+  .info h3 {
+    font-size: 1em;
+    line-height: 1.5em;
   }
 }
 @media screen and (max-width: 900px) {
@@ -3707,6 +3732,9 @@ html[xmlns] .slides {
   p {
     margin-bottom: 30px;
   }
+  .button-group button {
+    padding: 9px 6px;
+  }
 }
 @media screen and (max-width: 800px) {
   #header video {
@@ -3721,6 +3749,12 @@ html[xmlns] .slides {
   }
   .highlight .text {
     width: 84%;
+  }
+  .button-group button {
+    padding: 9px 2px;
+  }
+  .info .socials a > span {
+    margin-right: .05em;
   }
 }
 @media screen and (max-width: 700px) {
@@ -3754,6 +3788,25 @@ html[xmlns] .slides {
   }
   .dark.slider {
     display: none;
+  }
+  section.sliderComp {
+    padding-bottom: 0;
+  }
+  .cta.alt h4 {
+    width: 83%;
+  }
+  .button-group button {
+    padding: 9px 22px;
+  }
+  .info {
+    width: 100%;
+  }
+  .info .socials {
+    margin: 0 0 40px;
+  }
+  .formContainer {
+    width: 100%;
+    margin: 0;
   }
 }
 @media screen and (max-width: 600px) {
@@ -3857,6 +3910,9 @@ html[xmlns] .slides {
   .cta .btn {
     margin-top: 0;
   }
+  .button-group button {
+    padding: 9px 13px;
+  }
 }
 @media screen and (max-width: 500px) {
   header nav {
@@ -3876,6 +3932,12 @@ html[xmlns] .slides {
   }
   #footerLogo .icon-logo-main-v2 {
     font-size: 13em;
+  }
+  .cta.alt h4 {
+    width: 73%;
+  }
+  .button-group button {
+    padding: 9px 16px;
   }
 }
 @media screen and (max-width: 400px) {
@@ -3986,5 +4048,16 @@ html[xmlns] .slides {
     letter-spacing: 1px;
     display: block;
     text-align: center;
+  }
+  .cta.alt .icon-i-punch {
+    display: none;
+  }
+  .cta.alt h4 {
+    width: 100%;
+  }
+  .formContainer .left,
+  .formContainer .right {
+    width: 100%;
+    margin: 0;
   }
 }

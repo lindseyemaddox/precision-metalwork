@@ -1,8 +1,7 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
-<script type="text/javascript" src="/_assets/js/isotope.pkgd.js"></script>
-<script type="text/javascript" src="/_assets/js/jquery.lazyload.js"></script>
-<script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
+
+<div id="opacity">
 
 <div id="subHead">
 
@@ -178,7 +177,18 @@
 
 </section><!--cta-->
 
+</div><!--opacity-->
+
+<script type="text/javascript" src="/_assets/js/isotope.pkgd.js"></script>
+<script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
+
 <script>
+$(".fancybox")
+    .fancybox({
+        padding : 0
+    });
+
+
 // external js: isotope.pkgd.js, classie.js
 
 // ----- getText helper ----- //
@@ -246,15 +256,9 @@ function radioButtonGroup( buttonGroup ) {
 }
 
 
-$(".fancybox")
-    .fancybox({
-        padding : 0
-    });
-
-$(function() {
-    $("img.lazy").lazyload();
-});
 
 </script>
+
+
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>

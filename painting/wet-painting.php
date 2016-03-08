@@ -5,6 +5,8 @@
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
+<div id="opacity">
+
 <div id="subHead">
 
     <div class="inner">
@@ -15,7 +17,7 @@
 
 </div><!--subHead-->
 
-<section class="white">
+<section class="white sliderComp">
 
     <div class="inner">
 
@@ -97,5 +99,6 @@
     });
 </script>
 
+</div><!--opacity-->
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>

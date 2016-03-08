@@ -2,6 +2,8 @@
 <script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
+<div id="opacity">
+
 <div id="subHead">
 
     <div class="inner">
@@ -65,5 +67,7 @@
         $('.fancybox').fancybox();
     });
 </script>
+
+</div><!--opacity-->
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>
