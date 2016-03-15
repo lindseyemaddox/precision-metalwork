@@ -179,8 +179,8 @@
 
 </div><!--opacity-->
 
-<script type="text/javascript" src="/_assets/js/isotope.pkgd.js"></script>
 <script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
+<script type="text/javascript" src="/_assets/js/isotope.pkgd.js"></script>
 
 <script>
 $(".fancybox")
