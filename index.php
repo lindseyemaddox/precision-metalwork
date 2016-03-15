@@ -1,5 +1,6 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
 <script type="text/javascript" src="/_assets/js/smoothscroll.js"></script>
+<script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
     <section id="header">
@@ -52,7 +53,7 @@
 
                         <h5>Wet Painting</h5>
 
-                        <p>We prime and wet paint metal—including stainless steel, aluminum, carbon steel, and more.</p>
+                        <p>We prime and wet paint metal—including stainless steel, aluminum, carbon steel, and more.<span class="icon-arrow-double"></span></p>
 
                     </a>
 
@@ -68,7 +69,7 @@
 
                         <h5>Powder Coating</h5>
 
-                        <p>Get a durable, weather-resistant solution for your metal products and assemblies.</p>
+                        <p>Get a durable, weather-resistant solution for your metal products and assemblies.<span class="icon-arrow-double"></span></p>
 
                     </a>
 
@@ -111,7 +112,7 @@
 
                         <h5>Punch &amp; Form</h5>
 
-                        <p>We’ll form the perfect solution for your metal fabrication needs.</p>
+                        <p>We’ll form the perfect solution for your metal fabrication needs.<span class="icon-arrow-double"></span></p>
 
                     </a>
 
@@ -127,7 +128,7 @@
 
                         <h5>Welding &amp; Laser Cutting</h5>
 
-                        <p>Learn about our custom metal welding and laser cutting services.</p>
+                        <p>Learn about our custom metal welding and laser cutting services.<span class="icon-arrow-double"></span></p>
 
                     </a>
 
@@ -143,7 +144,7 @@
 
                         <h5>Grinding &amp; Polishing</h5>
 
-                        <p>Our metal grinding, polishing, and buffing services ensure a great finish.</p>
+                        <p>Our metal grinding, polishing, and buffing services ensure a great finish.<span class="icon-arrow-double"></span></p>
 
                     </a>
 
@@ -159,7 +160,7 @@
 
                         <h5>Fabrication &amp; Assembly</h5>
 
-                        <p>We manufacture and assemble a wide variety of metal components.</p>
+                        <p>We manufacture and assemble a wide variety of metal components.<span class="icon-arrow-double"></span></p>
 
                     </a>
 
@@ -213,5 +214,11 @@
         </div><!--inner-->
 
     </section><!--slider-->
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.fancybox').fancybox();
+    });
+</script>
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>

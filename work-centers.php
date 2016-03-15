@@ -1,6 +1,8 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
+<div id="opacity">
+
 <div id="subHead">
 
     <div class="inner">
@@ -233,5 +235,7 @@
     </div><!--inner-->
 
 </section><!--cta-->
+
+</div><!--opacity-->
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>

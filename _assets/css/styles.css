@@ -968,6 +968,7 @@ h2 span {
 }
 h3 {
   font-size: 2.142857142857143em;
+  line-height: 1.5em;
   font-weight: 700;
   color: #ffffff;
   text-transform: uppercase;
@@ -1804,7 +1805,7 @@ footer ul > li a {
 .four article {
   display: inline-block;
   vertical-align: top;
-  width: 22.7%;
+  width: 22.5%;
   margin: 0 1%;
   text-align: center;
 }
@@ -2253,19 +2254,10 @@ input:invalid,
 textarea:invalid {
   background-color: transparent;
 }
-/*======================================================*/
-/*================  RESPONSIVE STYLES  ================*/
-/*====================================================*/
-/*Contains ALL responsive code. Must be imported last so that it is the last css read.*/
-@media screen and (max-width: 1200px) {
-  html {
-    font-size: 13.5px;
-  }
-}
 @font-face {
   font-family: 'icomoon';
-  src: url('f/_assets/onts/icomoon.eot?b0x7l0');
-  src: url('/_assets/fonts/icomoon.eot?b0x7l0#iefix') format('embedded-opentype'), url('/_assets/fonts/icomoon.ttf?b0x7l0') format('truetype'), url('/_assets/fonts/icomoon.woff?b0x7l0') format('woff'), url('/_assets/fonts/icomoon.svg?b0x7l0#icomoon') format('svg');
+  src: url('/_assets/fonts/icomoon.eot?fk0m10');
+  src: url('/_assets/fonts/icomoon.eot?fk0m10#iefix') format('embedded-opentype'), url('/_assets/fonts/icomoon.ttf?fk0m10') format('truetype'), url('/_assets/fonts/icomoon.woff?fk0m10') format('woff'), url('/_assets/fonts/icomoon.svg?fk0m10#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -2282,6 +2274,9 @@ textarea:invalid {
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.icon-menu:before {
+  content: "\e9a4";
 }
 .icon-iso-badge .path1:before {
   content: "\e900";
@@ -3222,6 +3217,54 @@ body {
 .tab a:hover {
   border-bottom-color: #d6a94d;
 }
+.vendors {
+  margin-bottom: 0;
+}
+.vendors li {
+  display: inline-block;
+  vertical-align: middle;
+  width: 17%;
+  margin: 0 1%;
+}
+.vendors li img {
+  width: 100%;
+}
+a.fancyboxImg:hover {
+  border-bottom: none;
+}
+section.dark .text h4 {
+  text-align: left;
+}
+#header {
+  max-height: 1050px;
+  min-height: 500px;
+}
+header nav ul li span.icon-arrow-double:hover {
+  color: #003755;
+}
+footer a {
+  white-space: nowrap;
+}
+#footerLogo {
+  display: none;
+}
+.four article .icon-arrow-double {
+  font-size: 2em;
+  vertical-align: middle;
+  color: #d6a94d;
+}
+.four article .icon-arrow-double:hover {
+  color: #003755;
+}
+#footerLogo {
+  text-align: center;
+}
+.button-group {
+  text-align: center;
+}
+header .inner #contactLink {
+  z-index: 1;
+}
 /*
  * jQuery FlexSlider v2.0
  * http://www.woothemes.com/flexslider/
@@ -3256,6 +3299,7 @@ body {
   display: none;
   -webkit-backface-visibility: hidden;
   padding: 0;
+  margin: 0 20px;
 }
 /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides img {
@@ -3415,12 +3459,605 @@ html[xmlns] .slides {
     right: 0;
   }
 }
-/*======================================================*/
-/*================  RESPONSIVE STYLES  ================*/
-/*====================================================*/
 /*************RESPONSIVE CODE*****************/
-@media screen and (max-width: 2000px) {
-  .videoHolder {
-    margin-top: -600px;
+@media screen and (max-width: 1400px) {
+  .grid .portfolioItem .container {
+    top: 30%;
+  }
+}
+@media screen and (max-width: 1300px) {
+  #header .inner div {
+    top: 360px;
+  }
+  .button-group button {
+    padding: 9px 11px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  html {
+    font-size: 13.5px;
+  }
+  #header h1 {
+    font-size: 2em;
+  }
+  #header h2 {
+    font-size: 1.3em;
+    padding-bottom: 30px;
+  }
+  h3 {
+    font-size: 1.6em;
+  }
+  h4,
+  #header h4 {
+    font-size: 1.2em;
+    font-weight: 400;
+  }
+  #header .inner div {
+    top: 300px;
+  }
+  header nav ul > li {
+    padding: 0 .5em;
+  }
+  header div#mainLogo {
+    margin-top: -17px;
+  }
+  section.white {
+    padding: 72px 0;
+  }
+  .subfooter {
+    padding: 20px 0;
+  }
+  footer {
+    padding: 75px 0 50px;
+  }
+  footer .centerCol {
+    width: 35%;
+    margin-left: 9%;
+  }
+  .grid .portfolioItem {
+    height: 200px;
+  }
+  .grid .portfolioItem .container {
+    top: 30%;
+  }
+  .button-group button {
+    letter-spacing: 1px;
+  }
+  .info .socials a > span {
+    font-size: 3em;
+  }
+}
+@media screen and (max-width: 1100px) {
+  html {
+    font-size: 13px;
+  }
+  #header {
+    clear: both;
+    margin-top: -60px;
+    height: 500px;
+    position: absolute;
+    overflow: hidden;
+    -webkit-transition: all, 400ms, ease;
+    -moz-transition: all, 400ms, ease;
+    -o-transition: all, 400ms, ease;
+    -ms-transition: all, 400ms, ease;
+    transition: all, 400ms, ease;
+  }
+  #header .inner div {
+    top: 180px;
+  }
+  #header.darken {
+    opacity: .1;
+  }
+  #header video {
+    margin-top: -60px;
+  }
+  #opacity.darken {
+    opacity: .1;
+    -webkit-transition: all, 400ms, ease;
+    -moz-transition: all, 400ms, ease;
+    -o-transition: all, 400ms, ease;
+    -ms-transition: all, 400ms, ease;
+    transition: all, 400ms, ease;
+  }
+  #metalwork-link {
+    display: none;
+  }
+  header {
+    height: 60px;
+  }
+  header div#mainLogo {
+    margin: -35px 0 0 0;
+  }
+  header div#mainLogo a {
+    display: block;
+    text-align: center;
+  }
+  header div#mainLogo .icon-logo-main-v2 {
+    font-size: 10em;
+  }
+  header nav {
+    position: absolute;
+    width: 30%;
+    right: 0;
+    top: -23px;
+    -webkit-transition: height, 400ms, ease;
+    -moz-transition: height, 400ms, ease;
+    -o-transition: height, 400ms, ease;
+    -ms-transition: height, 400ms, ease;
+    transition: height, 400ms, ease;
+  }
+  header nav #nav {
+    display: block;
+    color: #fff;
+    cursor: pointer;
+    position: absolute;
+    top: 9px;
+    right: -10px;
+    font-size: 7em;
+  }
+  header nav #nav:hover {
+    color: #003755;
+    -webkit-transition: all 400ms ease;
+    -moz-transition: all 400ms ease;
+    -o-transition: all 400ms ease;
+    -ms-transition: all 400ms ease;
+    transition: all 400ms ease;
+  }
+  header nav ul {
+    height: 0;
+    overflow: hidden;
+  }
+  header nav ul.expand {
+    height: auto;
+    text-align: right;
+    margin-top: 90px;
+    overflow: visible;
+  }
+  header nav ul li {
+    display: block;
+    line-height: 3em;
+    padding: 0;
+  }
+  header nav ul li span.icon-arrow-double:hover {
+    color: #d6a94d;
+  }
+  header nav ul li a:hover {
+    color: #d6a94d;
+  }
+  header nav ul li.drop {
+    margin: 0 -30px -20px 0;
+  }
+  header nav ul li.drop ul {
+    position: relative;
+    background-color: transparent;
+    margin: 0px -20px 20px -30px;
+  }
+  header nav ul li.drop ul li {
+    margin: 0;
+  }
+  header nav ul li.drop ul.expanded {
+    margin-bottom: 25px!important;
+    height: auto;
+  }
+  header nav ul li span.icon-arrow-double {
+    top: 5px;
+  }
+  #metalwork {
+    margin-top: 440px;
+  }
+  #metalwork .four article {
+    width: 47%;
+  }
+  #metalwork .four article:first-child {
+    display: none;
+  }
+  #metalwork .four article:last-child {
+    display: none;
+  }
+  .fixed {
+    height: 140px;
+  }
+  .grid .portfolioItem {
+    height: 180px;
+  }
+  .button-group button {
+    letter-spacing: 0;
+  }
+}
+@media screen and (max-width: 1000px) {
+  html {
+    font-size: 12.5px;
+  }
+  header nav #nav {
+    top: 7px;
+  }
+  #header video {
+    margin-top: 0;
+  }
+  .grid .portfolioItem {
+    height: 160px;
+  }
+  h3 {
+    padding-bottom: 35px;
+  }
+  .button-group button {
+    padding: 9px 10px;
+  }
+  .info h3 {
+    font-size: 1em;
+    line-height: 1.5em;
+  }
+}
+@media screen and (max-width: 900px) {
+  html {
+    font-size: 12px;
+  }
+  #header video {
+    margin-top: 60px;
+  }
+  header nav #nav {
+    top: 13px;
+  }
+  header nav ul li.drop ul {
+    margin-right: -10px;
+  }
+  footer .leftCol {
+    width: 20%;
+  }
+  footer .leftCol .icon-iso-badge {
+    font-size: 10em;
+  }
+  footer .centerCol {
+    width: 42%;
+  }
+  .grid .portfolioItem {
+    height: 140px;
+  }
+  .grid .portfolioItem .container {
+    top: 20%;
+  }
+  .grid .portfolioItem .btn {
+    bottom: 5%;
+  }
+  .btn {
+    font-size: 1em;
+  }
+  .twoCol a.fancyboxImg {
+    width: 40%;
+  }
+  .twoCol .text {
+    width: 55%;
+  }
+  p {
+    margin-bottom: 30px;
+  }
+  .button-group button {
+    padding: 9px 6px;
+  }
+}
+@media screen and (max-width: 800px) {
+  #header video {
+    width: 120%;
+  }
+  section.white,
+  section.dark {
+    padding: 60px 0;
+  }
+  .highlight span {
+    width: 15%;
+  }
+  .highlight .text {
+    width: 84%;
+  }
+  .button-group button {
+    padding: 9px 2px;
+  }
+  .info .socials a > span {
+    margin-right: .05em;
+  }
+}
+@media screen and (max-width: 700px) {
+  #header video {
+    width: 130%;
+  }
+  .four article {
+    width: 47%;
+  }
+  .four article:first-child {
+    margin-bottom: 50px;
+  }
+  .four article:nth-child(2) {
+    margin-bottom: 50px;
+  }
+  #metalwork .four article {
+    margin-bottom: 0;
+  }
+  .grid .portfolioItem {
+    width: 49%;
+    height: 210px;
+  }
+  footer ul > li ul li {
+    padding-left: 20px;
+  }
+  .grid .portfolioItem .container {
+    opacity: 1;
+  }
+  .grid .portfolioItem img {
+    opacity: .2;
+  }
+  .dark.slider {
+    display: none;
+  }
+  section.sliderComp {
+    padding-bottom: 0;
+  }
+  .cta.alt h4 {
+    width: 83%;
+  }
+  .button-group button {
+    padding: 9px 22px;
+  }
+  .info {
+    width: 100%;
+  }
+  .info .socials {
+    margin: 0 0 40px;
+  }
+  .formContainer {
+    width: 100%;
+    margin: 0;
+  }
+}
+@media screen and (max-width: 600px) {
+  header div#mainLogo {
+    width: 50%;
+    margin: -20px 0 0 0;
+  }
+  header div#mainLogo .icon-logo-main-v2 {
+    font-size: 8em;
+  }
+  header nav ul li {
+    line-height: 3.4em;
+  }
+  #header video {
+    width: 160%;
+  }
+  #header .inner div {
+    top: 160px;
+  }
+  header nav ul li.drop ul {
+    margin-right: -5px;
+  }
+  header nav ul li span.icon-arrow-double {
+    top: 7px;
+  }
+  .grid .portfolioItem {
+    height: 190px;
+  }
+  footer .leftCol {
+    width: 100%;
+    margin-bottom: 60px;
+  }
+  footer .centerCol {
+    width: 62%;
+    margin-left: 0;
+  }
+  footer .centerCol li {
+    padding-left: 0;
+  }
+  footer .centerCol li li {
+    padding-left: 20px;
+  }
+  footer .rightCol {
+    width: 37%;
+    margin-left: 0;
+  }
+  #footerLogo {
+    display: block;
+    margin-bottom: 80px;
+  }
+  #footerLogo .icon-logo-main-v2 {
+    font-size: 16em;
+  }
+  footer div#mainLogo {
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+  }
+  footer .address {
+    display: inline-block;
+    width: 60%;
+    margin-left: 9%;
+  }
+  footer .address p {
+    font-size: 1.3em;
+    line-height: 1.7em;
+    text-align: left;
+  }
+  ul.twoCol {
+    width: 100%;
+    margin: 0;
+  }
+  ul.twoCol.two {
+    margin: 0 0 50px;
+  }
+  h2 {
+    padding-bottom: 40px;
+  }
+  ul.twoCol.two {
+    margin-bottom: 0;
+  }
+  .highlight span {
+    width: 20%;
+  }
+  .highlight .text {
+    width: 79%;
+  }
+  .twoCol a.fancyboxImg {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .twoCol .text {
+    width: 100%;
+  }
+  .cta h5 {
+    margin-top: .5em;
+  }
+  .cta h5 span {
+    display: none;
+  }
+  .cta .btn {
+    margin-top: 0;
+  }
+  .button-group button {
+    padding: 9px 13px;
+  }
+}
+@media screen and (max-width: 500px) {
+  header nav {
+    width: 40%;
+  }
+  header nav ul.expand {
+    margin-right: 10%;
+  }
+  #header video {
+    width: 200%;
+  }
+  #header .inner div {
+    top: 140px;
+  }
+  .grid .portfolioItem {
+    height: 150px;
+  }
+  #footerLogo .icon-logo-main-v2 {
+    font-size: 13em;
+  }
+  .cta.alt h4 {
+    width: 73%;
+  }
+  .button-group button {
+    padding: 9px 16px;
+  }
+}
+@media screen and (max-width: 400px) {
+  header div#mainLogo {
+    margin-top: -14px;
+  }
+  header div#mainLogo .icon-logo-main-v2 {
+    font-size: 5em;
+  }
+  header {
+    height: 32px;
+    margin-top: 40px;
+  }
+  header .inner #contactLink {
+    top: -30px;
+  }
+  header nav {
+    top: -37px;
+    width: 50%;
+  }
+  header .inner #contactLink a {
+    font-size: .7em;
+  }
+  #header {
+    margin-top: -73px;
+    height: 510px;
+    min-height: 510px;
+  }
+  #header video {
+    width: 270%;
+    margin-top: 70px;
+  }
+  #header .inner div {
+    top: 135px;
+  }
+  #header h1 {
+    font-size: 1.5em;
+  }
+  #header h4 {
+    font-size: 1em;
+  }
+  #metalwork .four article {
+    width: 100%;
+  }
+  #metalwork .four article:nth-child(2) {
+    margin-bottom: 30px;
+  }
+  .four article {
+    width: 100%;
+  }
+  .four article:nth-child(3) {
+    margin-bottom: 50px;
+  }
+  h3 {
+    font-size: 1.4em;
+  }
+  .grid .portfolioItem {
+    width: 100%;
+    height: 230px;
+  }
+  #footerLogo {
+    margin-bottom: 40px;
+  }
+  #footerLogo .icon-logo-main-v2 {
+    font-size: 10em;
+  }
+  footer .leftCol {
+    margin-bottom: 30px;
+  }
+  footer .leftCol .icon-iso-badge {
+    font-size: 5em;
+  }
+  footer .address {
+    width: 61%;
+    margin-left: 7%;
+  }
+  footer .address p {
+    font-size: 1em;
+  }
+  footer .centerCol,
+  footer .rightCol {
+    width: 100%;
+  }
+  footer .rightCol ul > li a {
+    margin-bottom: 22px;
+  }
+  footer .rightCol li {
+    padding-left: 0;
+  }
+  .subfooter p {
+    font-size: .8em;
+    text-align: center;
+  }
+  .highlight span {
+    width: 30%;
+  }
+  .highlight .text {
+    width: 68%;
+  }
+  .cta h5 {
+    float: none;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .cta .btn {
+    float: none;
+    width: 100%;
+    letter-spacing: 1px;
+    display: block;
+    text-align: center;
+  }
+  .cta.alt .icon-i-punch {
+    display: none;
+  }
+  .cta.alt h4 {
+    width: 100%;
+  }
+  .formContainer .left,
+  .formContainer .right {
+    width: 100%;
+    margin: 0;
   }
 }

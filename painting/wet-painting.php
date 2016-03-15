@@ -1,9 +1,11 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
 
     <!-- FLEXSLIDER CAROUSEL -->
-    <script type="text/javascript" src="/_assets/js/flexslider.jquery.js"></script>
+    <script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
+
+<div id="opacity">
 
 <div id="subHead">
 
@@ -15,7 +17,7 @@
 
 </div><!--subHead-->
 
-<section class="white">
+<section class="white sliderComp">
 
     <div class="inner">
 
@@ -23,7 +25,19 @@
 
         <h2><span class="icon-arrow-double"></span> When to Choose Wet Paint</h2>
 
-        <p>Wet paint is ideal for products that require thin coats of paint and/or can’t withstand the high oven temperates associated with powder coating. Wet painting also provides protection as well as custom decorative finishes in a wide range of colors that aren’t always available in powder coating. Keep in mind, it’s important to consider paint’s drying and curing times, as these times can vary anywhere from several days to several weeks.</p>
+        <div class="twoCol">
+
+            <a class="fancybox fancyboxImg" title="Wet Paint Line" rel="wet-paint" href="/_assets/img/wet-paint-line.jpg"><img src="/_assets/img/wet-paint-line.jpg" alt="Wet Paint Line"><span class="icon-plus"></span></a>
+
+            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-wet-paint.php'); //image gallery?>
+
+            <div class="text">
+
+                <p>Wet paint is ideal for products that require thin coats of paint and/or can’t withstand the high oven temperates associated with powder coating. Wet painting also provides protection as well as custom decorative finishes in a wide range of colors that aren’t always available in powder coating. Keep in mind, it’s important to consider paint’s drying and curing times, as these times can vary anywhere from several days to several weeks.</p>
+
+            </div><!--text-->
+
+        </div><!--twoCol-->
 
     </div><!--inner-->
 
@@ -35,23 +49,19 @@
 
         <h3>Our Vendors</h3>
 
-        <div class="flexslider carousel">
+        <ul class="vendors">
 
-            <ul class="slides">
+            <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
 
-                <li><img src="/_assets/img/customer-airgas.png" alt="Precision Metalwork customer Airgas logo"/></li>
+            <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>
 
-                <li><img src="/_assets/img/customer-ccis.png" alt="Precision Metalwork customer CCIS logo"/></li>
+            <li><img src="/_assets/img/customer-essentra.png" alt="Precision Metalwork customer Essentra logo"/></li>
 
-                <li><img src="/_assets/img/customer-essentra.png" alt="Precision Metalwork customer Essentra logo"/></li>
+            <li><img src="/_assets/img/customer-phoenix.png" alt="Precision Metalwork customer Phoenix logo"/></li>
 
-                <li><img src="/_assets/img/customer-phoenix.png" alt="Precision Metalwork customer Phoenix logo"/></li>
+            <li><img src="/_assets/img/customer-wsc.png" alt="Precision Metalwork customer WSC logo" /></li>
 
-                <li><img src="/_assets/img/customer-wsc.png" alt="Precision Metalwork customer WSC logo" /></li>
-
-            </ul>
-
-        </div><!--flexslider-->
+        </ul>
 
     </div><!--inner-->
 
@@ -84,14 +94,11 @@
 </section><!--cta-->
 
 <script type="text/javascript">
-
     $(document).ready(function() {
-      $('.flexslider').flexslider({
-        minItems: 1,
-        maxItems: 5
-      });
+        $('.fancybox').fancybox();
     });
-
 </script>
+
+</div><!--opacity-->
 
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>
