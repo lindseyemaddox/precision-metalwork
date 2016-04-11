@@ -1104,7 +1104,7 @@ header nav ul > li {
   display: inline-block;
   vertical-align: top;
   font-size: 1em;
-  padding: 0 .8em;
+  padding: 0 .7em;
 }
 header nav ul > li:last-child {
   padding-right: 0;
@@ -1765,7 +1765,7 @@ footer ul > li a {
 /*==============================================*/
 /* (Styles for pages with elements occuring in ways specific to the page.) */
 #header {
-  margin-top: -150px;
+  margin-top: -800px;
   background-color: #002235;
   overflow: hidden;
 }
@@ -1774,18 +1774,21 @@ footer ul > li a {
   width: 100%;
   vertical-align: top;
   margin-top: 60px;
+  position: absolute;
+  bottom: 0;
 }
 #header h1 {
   font-size: 2.571428571428571em;
-  text-align: center;
+  text-align: right;
+  margin-bottom: 18px;
 }
 #header h2 {
-  font-size: 1.7142857142857142em;
+  font-size: 1em;
   line-height: 1.25em;
   font-weight: 400;
   color: #ffffff;
   text-transform: none;
-  text-align: center;
+  text-align: right;
 }
 #header h2 span {
   color: #d6a94d;
@@ -3059,11 +3062,9 @@ textarea:invalid {
   position: relative;
 }
 #header .inner div {
-  top: 380px;
+  top: 870px;
   position: absolute;
-}
-#header .inner div h1 {
-  margin-bottom: 30px;
+  width: 100%;
 }
 section.white {
   background-color: #fff;
@@ -3080,6 +3081,11 @@ section.dark h3 {
 }
 section.dark h3 span {
   color: #d6a94d;
+}
+section.dark p.homep {
+  color: #fff;
+  text-align: center;
+  margin-top: 20px;
 }
 .grid p {
   margin: 30px 0 0;
@@ -3227,8 +3233,8 @@ section.dark .text h4 {
   text-align: left;
 }
 #header {
-  max-height: 1050px;
-  min-height: 500px;
+  max-height: 1000px;
+  min-height: 1000px;
 }
 header nav ul li span.icon-arrow-double:hover {
   color: #003755;
@@ -3457,9 +3463,6 @@ html[xmlns] .slides {
   }
 }
 @media screen and (max-width: 1300px) {
-  #header .inner div {
-    top: 360px;
-  }
   .button-group button {
     padding: 9px 11px;
   }
@@ -3482,9 +3485,6 @@ html[xmlns] .slides {
   #header h4 {
     font-size: 1.2em;
     font-weight: 400;
-  }
-  #header .inner div {
-    top: 300px;
   }
   header nav ul > li {
     padding: 0 .5em;
@@ -3521,27 +3521,6 @@ html[xmlns] .slides {
 @media screen and (max-width: 1100px) {
   html {
     font-size: 13px;
-  }
-  #header {
-    clear: both;
-    margin-top: -60px;
-    height: 500px;
-    position: absolute;
-    overflow: hidden;
-    -webkit-transition: all, 400ms, ease;
-    -moz-transition: all, 400ms, ease;
-    -o-transition: all, 400ms, ease;
-    -ms-transition: all, 400ms, ease;
-    transition: all, 400ms, ease;
-  }
-  #header .inner div {
-    top: 180px;
-  }
-  #header.darken {
-    opacity: .1;
-  }
-  #header video {
-    margin-top: -60px;
   }
   #opacity.darken {
     opacity: .1;
@@ -3633,9 +3612,6 @@ html[xmlns] .slides {
   }
   header nav ul li span.icon-arrow-double {
     top: 5px;
-  }
-  #metalwork {
-    margin-top: 440px;
   }
   #metalwork .four article {
     width: 47%;
@@ -3752,6 +3728,9 @@ html[xmlns] .slides {
   #header video {
     width: 130%;
   }
+  #header h1 {
+    font-size: 1.8em;
+  }
   .four article {
     width: 47%;
   }
@@ -3815,7 +3794,7 @@ html[xmlns] .slides {
     width: 160%;
   }
   #header .inner div {
-    top: 160px;
+    top: 850px;
   }
   header nav ul li.drop ul {
     margin-right: -5px;
@@ -3916,7 +3895,7 @@ html[xmlns] .slides {
     width: 200%;
   }
   #header .inner div {
-    top: 140px;
+    top: 837px;
   }
   .grid .portfolioItem {
     height: 150px;
@@ -3952,20 +3931,18 @@ html[xmlns] .slides {
   header .inner #contactLink a {
     font-size: .7em;
   }
-  #header {
-    margin-top: -73px;
-    height: 510px;
-    min-height: 510px;
+  #header .inner div {
+    top: 845px;
   }
   #header video {
-    width: 270%;
+    width: 130%;
     margin-top: 70px;
-  }
-  #header .inner div {
-    top: 135px;
   }
   #header h1 {
     font-size: 1.5em;
+  }
+  #header h2 {
+    font-size: 1em;
   }
   #header h4 {
     font-size: 1em;

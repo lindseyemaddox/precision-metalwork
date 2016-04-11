@@ -5,31 +5,22 @@
 
     <section id="header">
 
-    <div class="inner">
+        <div class="inner">
 
-        <div>
+            <div>
 
-            <h1>Welcome to Precision Metalwork, Inc.</h1>
-            <h2>Located just outside <span>Nashville, Tennessee,</span> Precision Metalwork has been manufacturing and customizing quality sheet metal products since 1971.</h2>
-            <h4>In addition to producing parts, components, assemblies, and finished products, we offer a full range of metal fabrication services—such as shearing, hole punching, laser cutting, bending, welding, assembling, and painting. </h4>
-        </div>
-    
-    </div><!--inner-->
+                <h1>Welcome to Precision Metalwork, Inc.</h1>
+                <h2>Located just outside <span>Nashville, Tennessee,</span> Precision Metalwork has been manufacturing and customizing quality sheet metal products since 1971.</h2>
+            </div>
+        
+        </div><!--inner-->
 
 
-    <video loop autoplay>
-        <source src="/_assets/slider/precision-metalwork.mp4" type="video/mp4">
-        <source src="/_assets/slider/precision-metalwork.ogv" type="video/ogg">
-        <img src="../../assets/images/dummy.png" alt="" data-lazyload="/_assets/img/video.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" class="rev-slidebg" data-no-retina>
-    </video>
-
-    <a href="#metalwork" id="metalwork-link">
-        <svg class="arrows">
-            <path class="a1" d="M0 0 L30 32 L60 0"></path>
-            <path class="a2" d="M0 20 L30 52 L60 20"></path>
-            <path class="a3" d="M0 40 L30 72 L60 40"></path>
-        </svg>
-    </a>
+        <video loop autoplay>
+            <source src="/_assets/slider/precision-metalwork.mp4" type="video/mp4">
+            <source src="/_assets/slider/precision-metalwork.ogv" type="video/ogg">
+            <img src="../../assets/images/dummy.png" alt="" data-lazyload="/_assets/img/video.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="5" class="rev-slidebg" data-no-retina>
+        </video>
 
     </section>
 
@@ -83,16 +74,13 @@
 
     </section><!--white-->
 
-    <section class="dark">
+    <section class="fixed line"></section>
 
-        <div class="inner">
-        
-            <h3>We work hard to meet all of our customers’ specific needs—including <span>design, function, and tolerance</span>—while providing high-quality, affordable metalwork services for both short-term and long-term projects. </h2>
-            <h4>And because the quality of our products and services is, and continues to be, the key to competitiveness, it is increasingly vital for all of us at Precision Metalwork to understand and use our ISO 9001:2008 Quality Management System to do a great job, the first time, every time.</h4>
 
-        </div><!--inner-->
 
-    </section>
+
+
+
 
     <section class="white">
 
@@ -172,7 +160,23 @@
 
     </section><!--white-->
 
-    <section class="fixed line"></section>
+
+
+    <section class="dark">
+
+        <div class="inner">
+        
+            <h3>We work hard to meet all of our customers’ specific needs—including <span>design, function, and tolerance</span>—while providing high-quality, affordable metalwork services for both short-term and long-term projects. </h2>
+            <h4>In addition to producing parts, components, assemblies, and finished products, we offer a full range of metal fabrication services—such as shearing, hole punching, laser cutting, bending, welding, assembling, and painting. </h4>
+            <p class="homep">And because the quality of our products and services is, and continues to be, the key to competitiveness, it is increasingly vital for all of us at Precision Metalwork to understand and use our ISO 9001:2008 Quality Management System to do a great job, the first time, every time.</p>
+
+        </div><!--inner-->
+
+    </section>
+
+
+
+
 
     <section class="white">
 
