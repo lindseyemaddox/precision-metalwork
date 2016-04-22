@@ -1838,14 +1838,12 @@ footer ul > li a {
   font-size: 1.2857142857142856em;
 }
 .fixed {
-  background-attachment: fixed;
-  background-size: cover;
+  background: top center / cover no-repeat fixed padding-box content-box;
   width: 100%;
   height: 200px;
 }
 #subHead {
-  background: url(/_assets/img/subhead.jpg) no-repeat center center transparent;
-  background-size: cover;
+  background: center center / cover no-repeat scroll padding-box content-box;
   margin-top: -142px;
   padding: 16em 0 5em;
 }
@@ -3435,9 +3433,6 @@ html[xmlns] .slides {
 .fixed.metal {
   background-image: url(/_assets/img/fixed-metal.jpg);
 }
-.fixed.acro {
-  background-image: url(/_assets/img/fixed-acro.jpg);
-}
 .fixed.trumpf {
   background-image: url(/_assets/img/fixed-trumpf.jpg);
 }
@@ -3450,11 +3445,20 @@ html[xmlns] .slides {
 .fixed.work {
   background-image: url(/_assets/img/fixed-work.jpg);
 }
+#subHead {
+  background-image: url(/_assets/img/header/subhead-extralarge.jpg);
+}
 .fixed.line {
   background-image: url(/_assets/img/fixed/paintbooth-extralarge.jpg);
 }
 .fixed.brake {
   background-image: url(/_assets/img/fixed/brake-extralarge.jpg);
+}
+.fixed.fabrication {
+  background-image: url(/_assets/img/fixed/fabrication-extralarge.jpg);
+}
+.fixed.acro {
+  background-image: url(/_assets/img/fixed/acro-extralarge.jpg);
 }
 @media (max-width: 1250px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 1250px) and (min-resolution: 192dpi) {
   .fixed.line {
@@ -3462,6 +3466,15 @@ html[xmlns] .slides {
   }
   .fixed.brake {
     background-image: url(/_assets/img/fixed/brake-large.jpg);
+  }
+  .fixed.fabrication {
+    background-image: url(/_assets/img/fixed/fabrication-large.jpg);
+  }
+  .fixed.acro {
+    background-image: url(/_assets/img/fixed/acro-extralarge.jpg);
+  }
+  #subHead {
+    background-image: url(/_assets/img/header/subhead-large.jpg);
   }
 }
 @media (max-width: 1000px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 1000px) and (min-resolution: 192dpi) {
@@ -3471,6 +3484,15 @@ html[xmlns] .slides {
   .fixed.brake {
     background-image: url(/_assets/img/fixed/brake-extramedium.jpg);
   }
+  .fixed.fabrication {
+    background-image: url(/_assets/img/fixed/fabrication-extramedium.jpg);
+  }
+  .fixed.acro {
+    background-image: url(/_assets/img/fixed/acro-extramedium.jpg);
+  }
+  #subHead {
+    background-image: url(/_assets/img/header/subhead-extramedium.jpg);
+  }
 }
 @media (max-width: 500px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 500px) and (min-resolution: 192dpi) {
   .fixed.line {
@@ -3478,6 +3500,15 @@ html[xmlns] .slides {
   }
   .fixed.brake {
     background-image: url(/_assets/img/fixed/brake-medium.jpg);
+  }
+  .fixed.fabrication {
+    background-image: url(/_assets/img/fixed/fabrication-medium.jpg);
+  }
+  .fixed.acro {
+    background-image: url(/_assets/img/fixed/acro-medium.jpg);
+  }
+  #subHead {
+    background-image: url(/_assets/img/header/subhead-medium.jpg);
   }
 }
 @media (max-width: 250px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 250px) and (min-resolution: 192dpi) {
@@ -3487,6 +3518,15 @@ html[xmlns] .slides {
   .fixed.brake {
     background-image: url(/_assets/img/fixed/brake-small.jpg);
   }
+  .fixed.fabrication {
+    background-image: url(/_assets/img/fixed/fabrication-small.jpg);
+  }
+  .fixed.acro {
+    background-image: url(/_assets/img/fixed/acro-small.jpg);
+  }
+  #subHead {
+    background-image: url(/_assets/img/header/subhead-small.jpg);
+  }
 }
 @media (max-width: 2500px) and (-webkit-max-device-pixel-ratio: 1.5), (max-width: 2500px) and (max-resolution: 191dpi) {
   .fixed.line {
@@ -3494,6 +3534,15 @@ html[xmlns] .slides {
   }
   .fixed.brake {
     background-image: url(/_assets/img/fixed/brake-large.jpg);
+  }
+  .fixed.fabrication {
+    background-image: url(/_assets/img/fixed/fabrication-large.jpg);
+  }
+  .fixed.acro {
+    background-image: url(/_assets/img/fixed/acro-large.jpg);
+  }
+  #subHead {
+    background-image: url(/_assets/img/header/subhead-large.jpg);
   }
 }
 @media (max-width: 2000px) and (-webkit-max-device-pixel-ratio: 1.5), (max-width: 2000px) and (max-resolution: 191dpi) {
@@ -3503,6 +3552,15 @@ html[xmlns] .slides {
   .fixed.brake {
     background-image: url(/_assets/img/fixed/brake-extramedium.jpg);
   }
+  .fixed.fabrication {
+    background-image: url(/_assets/img/fixed/fabrication-extramedium.jpg);
+  }
+  .fixed.acro {
+    background-image: url(/_assets/img/fixed/acro-extramedium.jpg);
+  }
+  #subHead {
+    background-image: url(/_assets/img/header/subhead-extramedium.jpg);
+  }
 }
 @media (max-width: 1000px) and (-webkit-max-device-pixel-ratio: 1.5), (max-width: 1000px) and (max-resolution: 191dpi) {
   .fixed.line {
@@ -3511,6 +3569,15 @@ html[xmlns] .slides {
   .fixed.brake {
     background-image: url(/_assets/img/fixed/brake-medium.jpg);
   }
+  .fixed.fabrication {
+    background-image: url(/_assets/img/fixed/fabrication-medium.jpg);
+  }
+  .fixed.acro {
+    background-image: url(/_assets/img/fixed/acro-medium.jpg);
+  }
+  #subHead {
+    background-image: url(/_assets/img/header/subhead-medium.jpg);
+  }
 }
 @media (max-width: 500px) and (-webkit-max-device-pixel-ratio: 1.5), (max-width: 500px) and (max-resolution: 191dpi) {
   .fixed.line {
@@ -3518,6 +3585,15 @@ html[xmlns] .slides {
   }
   .fixed.brake {
     background-image: url(/_assets/img/fixed/brake-small.jpg);
+  }
+  .fixed.fabrication {
+    background-image: url(/_assets/img/fixed/fabrication-small.jpg);
+  }
+  .fixed.acro {
+    background-image: url(/_assets/img/fixed/acro-small.jpg);
+  }
+  #subHead {
+    background-image: url(/_assets/img/header/subhead-small.jpg);
   }
 }
 /*************RESPONSIVE CODE*****************/

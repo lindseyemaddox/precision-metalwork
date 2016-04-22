@@ -109,7 +109,7 @@
 
 </section><!--highlight-->
 
-<section class="fixed metal"></section>
+<section class="fixed fabrication"></section>
 
 <section class="cta">
 

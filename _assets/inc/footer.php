@@ -81,7 +81,7 @@
 
 		<!-- JavaScript -->
 		<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
-		<script src="/_assets/js/main.js"></script>
+		<script src="/_assets/js/min/main-min.js"></script>
 
 	</body>
 </html>

@@ -3,6 +3,8 @@
 <script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
+<div id="opacity">
+
     <section id="header">
 
         <div class="inner">
