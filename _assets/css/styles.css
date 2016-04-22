@@ -3433,9 +3433,6 @@ html[xmlns] .slides {
 .fixed.metal {
   background-image: url(/_assets/img/fixed-metal.jpg);
 }
-.fixed.trumpf {
-  background-image: url(/_assets/img/fixed-trumpf.jpg);
-}
 .fixed.paint {
   background-image: url(/_assets/img/fixed-paint.jpg);
 }
@@ -3460,6 +3457,12 @@ html[xmlns] .slides {
 .fixed.acro {
   background-image: url(/_assets/img/fixed/acro-extralarge.jpg);
 }
+.fixed.laser {
+  background-image: url(/_assets/img/fixed/laser-extralarge.jpg);
+}
+.fixed.grinding {
+  background-image: url(/_assets/img/fixed/grinding-extralarge.jpg);
+}
 @media (max-width: 1250px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 1250px) and (min-resolution: 192dpi) {
   .fixed.line {
     background-image: url(/_assets/img/fixed/paintbooth-large.jpg);
@@ -3471,7 +3474,13 @@ html[xmlns] .slides {
     background-image: url(/_assets/img/fixed/fabrication-large.jpg);
   }
   .fixed.acro {
-    background-image: url(/_assets/img/fixed/acro-extralarge.jpg);
+    background-image: url(/_assets/img/fixed/acro-large.jpg);
+  }
+  .fixed.laser {
+    background-image: url(/_assets/img/fixed/laser-large.jpg);
+  }
+  .fixed.grinding {
+    background-image: url(/_assets/img/fixed/grinding-large.jpg);
   }
   #subHead {
     background-image: url(/_assets/img/header/subhead-large.jpg);
@@ -3490,6 +3499,12 @@ html[xmlns] .slides {
   .fixed.acro {
     background-image: url(/_assets/img/fixed/acro-extramedium.jpg);
   }
+  .fixed.laser {
+    background-image: url(/_assets/img/fixed/laser-extramedium.jpg);
+  }
+  .fixed.grinding {
+    background-image: url(/_assets/img/fixed/grinding-extramedium.jpg);
+  }
   #subHead {
     background-image: url(/_assets/img/header/subhead-extramedium.jpg);
   }
@@ -3506,6 +3521,12 @@ html[xmlns] .slides {
   }
   .fixed.acro {
     background-image: url(/_assets/img/fixed/acro-medium.jpg);
+  }
+  .fixed.laser {
+    background-image: url(/_assets/img/fixed/laser-medium.jpg);
+  }
+  .fixed.grinding {
+    background-image: url(/_assets/img/fixed/grinding-medium.jpg);
   }
   #subHead {
     background-image: url(/_assets/img/header/subhead-medium.jpg);
@@ -3524,6 +3545,12 @@ html[xmlns] .slides {
   .fixed.acro {
     background-image: url(/_assets/img/fixed/acro-small.jpg);
   }
+  .fixed.laser {
+    background-image: url(/_assets/img/fixed/laser-small.jpg);
+  }
+  .fixed.grinding {
+    background-image: url(/_assets/img/fixed/grinding-small.jpg);
+  }
   #subHead {
     background-image: url(/_assets/img/header/subhead-small.jpg);
   }
@@ -3540,6 +3567,12 @@ html[xmlns] .slides {
   }
   .fixed.acro {
     background-image: url(/_assets/img/fixed/acro-large.jpg);
+  }
+  .fixed.laser {
+    background-image: url(/_assets/img/fixed/laser-large.jpg);
+  }
+  .fixed.grinding {
+    background-image: url(/_assets/img/fixed/grinding-large.jpg);
   }
   #subHead {
     background-image: url(/_assets/img/header/subhead-large.jpg);
@@ -3558,6 +3591,12 @@ html[xmlns] .slides {
   .fixed.acro {
     background-image: url(/_assets/img/fixed/acro-extramedium.jpg);
   }
+  .fixed.laser {
+    background-image: url(/_assets/img/fixed/laser-extramedium.jpg);
+  }
+  .fixed.grinding {
+    background-image: url(/_assets/img/fixed/grinding-extramedium.jpg);
+  }
   #subHead {
     background-image: url(/_assets/img/header/subhead-extramedium.jpg);
   }
@@ -3575,6 +3614,12 @@ html[xmlns] .slides {
   .fixed.acro {
     background-image: url(/_assets/img/fixed/acro-medium.jpg);
   }
+  .fixed.laser {
+    background-image: url(/_assets/img/fixed/laser-medium.jpg);
+  }
+  .fixed.grinding {
+    background-image: url(/_assets/img/fixed/grinding-medium.jpg);
+  }
   #subHead {
     background-image: url(/_assets/img/header/subhead-medium.jpg);
   }
@@ -3591,6 +3636,12 @@ html[xmlns] .slides {
   }
   .fixed.acro {
     background-image: url(/_assets/img/fixed/acro-small.jpg);
+  }
+  .fixed.laser {
+    background-image: url(/_assets/img/fixed/laser-small.jpg);
+  }
+  .fixed.grinding {
+    background-image: url(/_assets/img/fixed/grinding-small.jpg);
   }
   #subHead {
     background-image: url(/_assets/img/header/subhead-small.jpg);

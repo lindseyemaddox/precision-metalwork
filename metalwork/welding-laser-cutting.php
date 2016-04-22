@@ -40,7 +40,7 @@
 
 </section><!--white-->
 
-<section class="fixed trumpf"></section>
+<section class="fixed laser"></section>
 
 <section class="cta">
 

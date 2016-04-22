@@ -644,6 +644,116 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_assets\/img\/fixed\/grinding-extralarge.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 896808,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-extralarge.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-extralarge.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/grinding-extramedium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231494,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-extramedium.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-extramedium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/grinding-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 328461,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-large.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/grinding-medium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 231494,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-medium.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-medium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/grinding-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24809,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-small.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/laser-extralarge.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-extralarge.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-extralarge.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/laser-extramedium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 135212,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-extramedium.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-extramedium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/laser-large.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 189084,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-large.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-large.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/laser-medium.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49428,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-medium.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-medium.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_assets\/img\/fixed\/laser-small.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18443,
+		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-small.jpg",
+		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/laser-small.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_assets\/img\/fixed\/paintbooth-extralarge.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
