@@ -3433,15 +3433,6 @@ html[xmlns] .slides {
 .fixed.metal {
   background-image: url(/_assets/img/fixed-metal.jpg);
 }
-.fixed.paint {
-  background-image: url(/_assets/img/fixed-paint.jpg);
-}
-.fixed.equipment {
-  background-image: url(/_assets/img/fixed-equipment.jpg);
-}
-.fixed.work {
-  background-image: url(/_assets/img/fixed-work.jpg);
-}
 #subHead {
   background-image: url(/_assets/img/header/subhead-extralarge.jpg);
 }
@@ -3463,6 +3454,21 @@ html[xmlns] .slides {
 .fixed.grinding {
   background-image: url(/_assets/img/fixed/grinding-extralarge.jpg);
 }
+.fixed.paint {
+  background-image: url(/_assets/img/fixed/paint-extralarge.jpg);
+}
+.fixed.wetpaint {
+  background-image: url(/_assets/img/fixed/wetpaint-extralarge.jpg);
+}
+.fixed.powder {
+  background-image: url(/_assets/img/fixed/powder-extralarge.jpg);
+}
+.fixed.trubend {
+  background-image: url(/_assets/img/fixed/trubend-extralarge.jpg);
+}
+.fixed.equipment {
+  background-image: url(/_assets/img/fixed/equipment-extralarge.jpg);
+}
 @media (max-width: 1250px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 1250px) and (min-resolution: 192dpi) {
   .fixed.line {
     background-image: url(/_assets/img/fixed/paintbooth-large.jpg);
@@ -3481,6 +3487,21 @@ html[xmlns] .slides {
   }
   .fixed.grinding {
     background-image: url(/_assets/img/fixed/grinding-large.jpg);
+  }
+  .fixed.paint {
+    background-image: url(/_assets/img/fixed/paint-large.jpg);
+  }
+  .fixed.wetpaint {
+    background-image: url(/_assets/img/fixed/wetpaint-large.jpg);
+  }
+  .fixed.powder {
+    background-image: url(/_assets/img/fixed/powder-large.jpg);
+  }
+  .fixed.trubend {
+    background-image: url(/_assets/img/fixed/trubend-large.jpg);
+  }
+  .fixed.equipment {
+    background-image: url(/_assets/img/fixed/equipment-large.jpg);
   }
   #subHead {
     background-image: url(/_assets/img/header/subhead-large.jpg);
@@ -3505,6 +3526,21 @@ html[xmlns] .slides {
   .fixed.grinding {
     background-image: url(/_assets/img/fixed/grinding-extramedium.jpg);
   }
+  .fixed.paint {
+    background-image: url(/_assets/img/fixed/paint-extramedium.jpg);
+  }
+  .fixed.wetpaint {
+    background-image: url(/_assets/img/fixed/wetpaint-extramedium.jpg);
+  }
+  .fixed.powder {
+    background-image: url(/_assets/img/fixed/powder-extramedium.jpg);
+  }
+  .fixed.trubend {
+    background-image: url(/_assets/img/fixed/trubend-extramedium.jpg);
+  }
+  .fixed.equipment {
+    background-image: url(/_assets/img/fixed/equipment-extramedium.jpg);
+  }
   #subHead {
     background-image: url(/_assets/img/header/subhead-extramedium.jpg);
   }
@@ -3527,6 +3563,21 @@ html[xmlns] .slides {
   }
   .fixed.grinding {
     background-image: url(/_assets/img/fixed/grinding-medium.jpg);
+  }
+  .fixed.paint {
+    background-image: url(/_assets/img/fixed/paint-medium.jpg);
+  }
+  .fixed.wetpaint {
+    background-image: url(/_assets/img/fixed/wetpaint-medium.jpg);
+  }
+  .fixed.powder {
+    background-image: url(/_assets/img/fixed/powder-medium.jpg);
+  }
+  .fixed.trubend {
+    background-image: url(/_assets/img/fixed/trubend-medium.jpg);
+  }
+  .fixed.equipment {
+    background-image: url(/_assets/img/fixed/equipment-medium.jpg);
   }
   #subHead {
     background-image: url(/_assets/img/header/subhead-medium.jpg);
@@ -3551,6 +3602,21 @@ html[xmlns] .slides {
   .fixed.grinding {
     background-image: url(/_assets/img/fixed/grinding-small.jpg);
   }
+  .fixed.paint {
+    background-image: url(/_assets/img/fixed/paint-small.jpg);
+  }
+  .fixed.wetpaint {
+    background-image: url(/_assets/img/fixed/wetpaint-small.jpg);
+  }
+  .fixed.powder {
+    background-image: url(/_assets/img/fixed/powder-small.jpg);
+  }
+  .fixed.trubend {
+    background-image: url(/_assets/img/fixed/trubend-small.jpg);
+  }
+  .fixed.equipment {
+    background-image: url(/_assets/img/fixed/equipment-small.jpg);
+  }
   #subHead {
     background-image: url(/_assets/img/header/subhead-small.jpg);
   }
@@ -3573,6 +3639,21 @@ html[xmlns] .slides {
   }
   .fixed.grinding {
     background-image: url(/_assets/img/fixed/grinding-large.jpg);
+  }
+  .fixed.paint {
+    background-image: url(/_assets/img/fixed/paint-large.jpg);
+  }
+  .fixed.wetpaint {
+    background-image: url(/_assets/img/fixed/wetpaint-large.jpg);
+  }
+  .fixed.powder {
+    background-image: url(/_assets/img/fixed/powder-large.jpg);
+  }
+  .fixed.trubend {
+    background-image: url(/_assets/img/fixed/trubend-large.jpg);
+  }
+  .fixed.equipment {
+    background-image: url(/_assets/img/fixed/equipment-large.jpg);
   }
   #subHead {
     background-image: url(/_assets/img/header/subhead-large.jpg);
@@ -3597,6 +3678,21 @@ html[xmlns] .slides {
   .fixed.grinding {
     background-image: url(/_assets/img/fixed/grinding-extramedium.jpg);
   }
+  .fixed.paint {
+    background-image: url(/_assets/img/fixed/paint-extramedium.jpg);
+  }
+  .fixed.wetpaint {
+    background-image: url(/_assets/img/fixed/wetpaint-extramedium.jpg);
+  }
+  .fixed.powder {
+    background-image: url(/_assets/img/fixed/powder-extramedium.jpg);
+  }
+  .fixed.trubend {
+    background-image: url(/_assets/img/fixed/trubend-extramedium.jpg);
+  }
+  .fixed.equipment {
+    background-image: url(/_assets/img/fixed/equipment-extramedium.jpg);
+  }
   #subHead {
     background-image: url(/_assets/img/header/subhead-extramedium.jpg);
   }
@@ -3620,6 +3716,21 @@ html[xmlns] .slides {
   .fixed.grinding {
     background-image: url(/_assets/img/fixed/grinding-medium.jpg);
   }
+  .fixed.paint {
+    background-image: url(/_assets/img/fixed/paint-medium.jpg);
+  }
+  .fixed.wetpaint {
+    background-image: url(/_assets/img/fixed/wetpaint-medium.jpg);
+  }
+  .fixed.powder {
+    background-image: url(/_assets/img/fixed/powder-medium.jpg);
+  }
+  .fixed.trubend {
+    background-image: url(/_assets/img/fixed/trubend-medium.jpg);
+  }
+  .fixed.equipment {
+    background-image: url(/_assets/img/fixed/equipment-medium.jpg);
+  }
   #subHead {
     background-image: url(/_assets/img/header/subhead-medium.jpg);
   }
@@ -3642,6 +3753,21 @@ html[xmlns] .slides {
   }
   .fixed.grinding {
     background-image: url(/_assets/img/fixed/grinding-small.jpg);
+  }
+  .fixed.paint {
+    background-image: url(/_assets/img/fixed/paint-small.jpg);
+  }
+  .fixed.wetpaint {
+    background-image: url(/_assets/img/fixed/wetpaint-small.jpg);
+  }
+  .fixed.powder {
+    background-image: url(/_assets/img/fixed/powder-small.jpg);
+  }
+  .fixed.trubend {
+    background-image: url(/_assets/img/fixed/trubend-small.jpg);
+  }
+  .fixed.equipment {
+    background-image: url(/_assets/img/fixed/equipment-small.jpg);
   }
   #subHead {
     background-image: url(/_assets/img/header/subhead-small.jpg);

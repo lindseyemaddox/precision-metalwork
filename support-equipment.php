@@ -165,7 +165,7 @@
 
 </section><!--slider-->
 
-<section class="fixed equipment"></section>
+<section class="fixed trubend"></section>
 
 <section class="cta">
 
