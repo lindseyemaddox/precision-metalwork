@@ -2055,10 +2055,10 @@ label span {
 }
 .grid .portfolioItem .container {
   width: 80%;
-  height: 60%;
+  height: 80%;
   margin: 0 10%;
   position: absolute;
-  top: 40%;
+  top: 10%;
   opacity: 0;
   -webkit-transition: all 400ms ease;
   -moz-transition: all 400ms ease;
@@ -2069,11 +2069,14 @@ label span {
 .grid .portfolioItem h3 {
   color: #ffffff;
   text-align: center;
+  padding-bottom: 0;
+  font-size: 1.5em;
+  line-height: 1.2em;
 }
 .grid .portfolioItem .btn {
   width: 80%;
   position: absolute;
-  bottom: 25%;
+  bottom: 5%;
   left: 10%;
   text-align: center;
 }
@@ -3427,11 +3430,11 @@ html[xmlns] .slides {
     right: 0;
   }
 }
-.fixed.press {
-  background-image: url(/_assets/img/fixed-press.jpg);
+picture img {
+  width: 100%;
 }
-.fixed.metal {
-  background-image: url(/_assets/img/fixed-metal.jpg);
+a.fancybox-nav:hover {
+  border-bottom: none;
 }
 #subHead {
   background-image: url(/_assets/img/header/subhead-extralarge.jpg);
@@ -3774,11 +3777,6 @@ html[xmlns] .slides {
   }
 }
 /*************RESPONSIVE CODE*****************/
-@media screen and (max-width: 1400px) {
-  .grid .portfolioItem .container {
-    top: 30%;
-  }
-}
 @media screen and (max-width: 1300px) {
   .button-group button {
     padding: 9px 11px;
@@ -3824,9 +3822,6 @@ html[xmlns] .slides {
   }
   .grid .portfolioItem {
     height: 200px;
-  }
-  .grid .portfolioItem .container {
-    top: 30%;
   }
   .button-group button {
     letter-spacing: 1px;
@@ -3997,12 +3992,6 @@ html[xmlns] .slides {
   }
   .grid .portfolioItem {
     height: 140px;
-  }
-  .grid .portfolioItem .container {
-    top: 20%;
-  }
-  .grid .portfolioItem .btn {
-    bottom: 5%;
   }
   .btn {
     font-size: 1em;

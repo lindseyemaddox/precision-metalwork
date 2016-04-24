@@ -24,17 +24,23 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/trulaser-3030.jpg"><img src="/_assets/img/trulaser-3030.jpg" alt="Trumpf TruLaser 3030"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="laser" title="Trumpf TruLaser 3030" href="/_assets/inc/equipment/trumpf-trulaser.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-laser-cutting.php'); //image gallery?>
+                <img src="/_assets/img/equipment/trumpf_trulaser-small.jpg" alt="Trumpf TruLaser 3030">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
 
             <div class="text">
 
                 <h2><span class="icon-arrow-double"></span> Laser Cutting</h2>
 
-                <p>Our <a class="fancybox" rel="laser-cutting" title="Trumpf TruLaser 3030" href="/_assets/img/trulaser-3030.jpg">Our Trumpf TruLaser 3030</a> laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
+                <p>Our <a class="fancybox fancybox.ajax" rel="laser" title="Trumpf TruLaser 3030" href="/_assets/inc/equipment/trumpf-trulaser.php">Trumpf TruLaser 3030</a> laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
 
             </div><!--text-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="laser" title="Trumpf TruLaser" href="/_assets/inc/equipment/trulaser-interface.php"></a>
 
         </div><!--twoCol-->
 

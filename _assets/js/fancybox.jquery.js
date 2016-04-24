@@ -60,9 +60,9 @@
 			height    : 600,
 			minWidth  : 100,
 			minHeight : 100,
-			maxWidth  : 9999,
-			maxHeight : 9999,
-			pixelRatio: 1, // Set to 2 for retina display support
+			maxWidth  : 5000,
+			maxHeight : 3336,
+			pixelRatio: 2, // Set to 2 for retina display support
 
 			autoSize   : true,
 			autoHeight : false,
@@ -148,14 +148,14 @@
 
 			// Properties for each animation type
 			// Opening fancyBox
-			openEffect  : 'fade', // 'elastic', 'fade' or 'none'
+			openEffect  : 'elastic', // 'elastic', 'fade' or 'none'
 			openSpeed   : 250,
 			openEasing  : 'swing',
 			openOpacity : true,
-			openMethod  : 'zoomIn',
+			openMethod  : 'changeIn',
 
 			// Closing fancyBox
-			closeEffect  : 'fade', // 'elastic', 'fade' or 'none'
+			closeEffect  : 'elastic', // 'elastic', 'fade' or 'none'
 			closeSpeed   : 250,
 			closeEasing  : 'swing',
 			closeOpacity : true,

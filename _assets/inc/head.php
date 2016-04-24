@@ -22,3 +22,8 @@
 	<link rel="stylesheet" href="/_assets/css/styles.css" media="screen">
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
+
+	<script>
+		document.createElement( "picture" );
+	</script>
+	<script src="/_assets/js/min/picturefill-min.js" async></script>

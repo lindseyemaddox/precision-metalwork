@@ -32,132 +32,102 @@
         </div><!--button-group-->
 
         <div class="grid">
-            <div class="portfolioItem powder punch ">
-                <img src="/_assets/img/Precision-MiscParts.jpg" alt="portfolio item"/>
+
+            <div class="portfolioItem powder">
+                <img src="/_assets/img/portfolio/powder_line-small.jpg" alt="NIC Parts">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Powder Painting</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/powder-line.php" alt="Powder Painting" title="Powder Painting" rel="powder">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem grind laser">
-                <img src="/_assets/img/Precision-MiscParts3.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem weld">
+                <img src="/_assets/img/portfolio/weld_hogebuilt-small.jpg" alt="Welding for Hogebuilt">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts3.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Welding for Hogebuilt</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-hogebuilt.php" alt="Welding for Hogebuilt" title="Welding for Hogebuilt" rel="weld">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem weld powder">
-                <img src="/_assets/img/Precision-MiscParts4.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem grind">
+                <img src="/_assets/img/portfolio/grind_timesavers-small.jpg" alt="Timesavers Series 1200">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts4.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Timesavers Series 1200</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/grind-timesavers.php" alt="Timesavers Series 1200" title="Timesavers Series 1200" rel="grind">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem form fabrication">
-                <img src="/_assets/img/Precision-MiscParts5.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem assembly">
+                <img src="/_assets/img/portfolio/assembly_table-small.jpg" alt="Assembly on Table">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts5.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Assembly</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/assembly-table.php" alt="Assembly on Table" title="Assembly on Table" rel="assembly">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem polish powder">
-                <img src="/_assets/img/portfolio-trimmed.jpg" alt="portfolio item"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         .jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem grind">
+                <img src="/_assets/img/portfolio/grind_table-small.jpg" alt="Grind">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/portfolio-trimmed.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Grind</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/grind-table.php" alt="Grind" title="Grind" rel="grind">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem polish powder">
-                <img src="/_assets/img/Precision-MiscParts10.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem form">
+                <img src="/_assets/img/portfolio/form_trubend-small.jpg" alt="TruBend 3100">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts10.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>TruBend 3100</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/form-trubend.php" alt="TruBend 3100" title="TruBend 3100" rel="form">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem form wet">
-                <img src="/_assets/img/Precision-MiscParts2.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem fabrication laser">
+                <img src="/_assets/img/portfolio/fabrication_rotary-small.jpg" alt="GE Rotary Flanges">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts2.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>GE Rotary Flanges</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/fabrication-rotary.php" alt="GE Rotary Flanges" title="GE Rotary Flanges" rel="fabrication">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem powder laser">
-                <img src="/_assets/img/portfolio-scraps.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem weld">
+                <img src="/_assets/img/portfolio/weld_table-small.jpg" alt="Welding for Hogebuilt">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/portfolio-scraps.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Hogebuilt Welding</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-table.php" alt="Hogebuilt Welding" title="Hogebuilt Welding" rel="weld">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem wet grind">
-                <img src="/_assets/img/Precision-MiscParts6.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem form">
+                <img src="/_assets/img/portfolio/form_kloeckner-small.jpg" alt="Kloeckner parts just off press brake">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts6.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Kloeckner Parts</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/form-kloeckner.php" alt="Kloeckner parts just off press brake" title="Kloeckner parts just off press brake" rel="form">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem grind form">
-                <img src="/_assets/img/portfolio-scrap-plate.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem powder">
+                <img src="/_assets/img/portfolio/powder_parts-small.jpg" alt="NIC Parts">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/portfolio-scrap-plate.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>NIC Parts</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/powder-parts.php" alt="NIC Parts" title="NIC Parts" rel="powder">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem assembly laser">
-                <img src="/_assets/img/Precision-MiscParts7.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem assembly">
+                <img src="/_assets/img/portfolio/assembly_case-small.jpg" alt="Assembly at Precision Metalwork">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts7.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Assembly</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/assembly-case.php" alt="Assembly at Precision Metalwork" title="Assembly at Precision Metalwork" rel="assembly">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem fabrication punch">
-                <img src="/_assets/img/Precision-MiscParts8.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem fabrication">
+                <img src="/_assets/img/portfolio/fabrication_case-small.jpg" alt="GE Case">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts8.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>GE</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/fabrication-case.php" alt="GE Case" title="GE Case" rel="fabrication">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem wet grind">
-                <img src="/_assets/img/Precision-MiscParts9.jpg" alt="portfolio item"/>
-                <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts9.jpg" alt="Precision Metalwork portfolio item">Details</a>
-                </div><!--container-->
-            </div>
-            <div class="portfolioItem wet laser">
-                <img src="/_assets/img/Precision-MiscParts11.jpg" alt="portfolio item"/>
-                <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts11.jpg" alt="Precision Metalwork portfolio item">Details</a>
-                </div><!--container-->
-            </div>
-            <div class="portfolioItem powder assembly">
-                <img src="/_assets/img/Precision-MiscParts12.jpg" alt="portfolio item"/>
-                <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts12.jpg" alt="Precision Metalwork portfolio item">Details</a>
-                </div><!--container-->
-            </div>
-            <div class="portfolioItem fabrication polish">
-                <img src="/_assets/img/portfolio-grid.jpg" alt="portfolio item"/>
-                <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/portfolio-grid.jpg" alt="Precision Metalwork portfolio item">Details</a>
-                </div><!--container-->
-            </div>
-            <div class="portfolioItem form weld">
-                <img src="/_assets/img/portfolio-stacked.jpg" alt="portfolio item"/>
-                <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/portfolio-stacked.jpg" alt="Precision Metalwork portfolio item">Details</a>
-                </div><!--container-->
-            </div>
-            <div class="portfolioItem assembly grind">
-                <img src="/_assets/img/portfolio-strippit.jpg" alt="portfolio item"/>
-                <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/portfolio-strippit.jpg" alt="Precision Metalwork portfolio item">Details</a>
-                </div><!--container-->
-            </div>
+            </div><!--portfolioItem-->
 
         </div><!--grid-->
 
@@ -179,8 +149,9 @@
 
 </div><!--opacity-->
 
-<script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
-<script type="text/javascript" src="/_assets/js/isotope.pkgd.js"></script>
+<script type="text/javascript" src="/_assets/js/min/fancybox-min.js"></script>
+<script type="text/javascript" src="/_assets/js/min/isotope-min.js"></script>
+
 
 <script>
 $(".fancybox")
