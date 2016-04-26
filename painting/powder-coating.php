@@ -81,7 +81,7 @@
 
 </section><!--white-->
 
-<section class="fixed paint"></section>
+<section class="fixed powder"></section>
 
 <section class="cta">
 

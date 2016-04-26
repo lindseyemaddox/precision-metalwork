@@ -40,7 +40,7 @@
 
 </section><!--white-->
 
-<section class="fixed trumpf"></section>
+<section class="fixed grinding"></section>
 
 <section class="cta">
 

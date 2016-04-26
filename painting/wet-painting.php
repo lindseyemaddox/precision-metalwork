@@ -79,7 +79,7 @@
 
 </section><!--white-->
 
-<section class="fixed paint"></section>
+<section class="fixed wetpaint"></section>
 
 <section class="cta">
 
