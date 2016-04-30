@@ -1,5 +1,5 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
-<script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
+<script type="text/javascript" src="/_assets/js/min/fancybox-min.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
 <div id="opacity">
@@ -36,27 +36,39 @@
 
                 <h2><span class="icon-arrow-double"></span> Laser Cutting</h2>
 
-                <p>Our <a class="fancybox fancybox.ajax" rel="laser" title="Trumpf TruLaser 3030" href="/_assets/inc/equipment/trumpf-trulaser.php">Trumpf TruLaser 3030</a> laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
+                <p>Our Trumpf TruLaser 3030 laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
 
             </div><!--text-->
 
             <a class="hidden fancybox fancybox.ajax" rel="laser" title="Trumpf TruLaser" href="/_assets/inc/equipment/trulaser-interface.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="laser" title="Laser Cutting" href="/_assets/inc/equipment/laser-cutting.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="laser" title="TruLaser Side View" href="/_assets/inc/equipment/trulaser-side.php"></a>
 
         </div><!--twoCol-->
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="press-brakes" title="Press Brakes" href="/_assets/img/trublend3100.jpg"><img src="/_assets/img/trublend3100.jpg" alt="press brakes"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="press-brakes" title="Trumpf TruBend 3100" href="/_assets/inc/equipment/trubend-interface.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-press-brakes.php'); //image gallery?>
+                <img src="/_assets/img/equipment/trubend_interface-small.jpg" alt="press brakes">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
 
             <div class="text">
 
                 <h2><span class="icon-arrow-double"></span> Press Brakes</h2>
 
-                <p>Our <a class="fancybox" rel="press-brakes" href="/_assets/img/lightbox-accurpress.jpg" alt="Accurpress Accell Press Brake" title="Accurpress Accell Press Brake">Accurpress Accell Press Brake</a>, <a class="fancybox" rel="press-brakes" href="/_assets/img/lightbox-diacro.jpg" alt="Di-Acro Promecam CNC Press Brake" title="Di-Acro Promecam CNC Press Brake">Di-Acro Promecam CNC Press Brake</a>, and <a class="fancybox" rel="press-brakes" href="/_assets/img/lightbox-guifil.jpg" alt="Guifil Press Brake" title="Guifil Press Brake">Guifil Press Brake</a> feature high-precision, high-speed, and high-versatility when it comes to bending sheet metal as well as other types of metal.</p>
+                <p>Our Accurpress Accell Press Brake, Di-Acro Promecam CNC Press Brake, and Guifil Press Brake feature high-precision, high-speed, and high-versatility when it comes to bending sheet metal as well as other types of metal.</p>
 
             </div><!--text-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="press-brakes" title="Trumpf TruBend 3100" href="/_assets/inc/equipment/trumpf-trubend.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="press-brakes" title="Trumpf TruBend 3100" href="/_assets/inc/equipment/trubend-closeup.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="press-brakes" title="Accell Accurpress Press Brake" href="/_assets/inc/equipment/accell-accurpress.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="press-brakes" title="Di-Acro Promecam CNC Press Brake" href="/_assets/inc/equipment/diacro-promecam.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="press-brakes" title="Guifil Press Brake" href="/_assets/inc/equipment/guifil-pressbrake.php"></a>
 
         </div><!--twoCol-->
 

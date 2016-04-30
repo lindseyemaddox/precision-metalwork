@@ -15,14 +15,10 @@
 	<link rel="shortcut icon" href="/_assets/img/favicon.ico">
 	<link rel="apple-touch-icon" href="/_assets/img/apple-touch-57.png">
 
-	<!-- fonts -->
-	<link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
-
 	<!-- Stylesheets -->
 	<link rel="stylesheet" href="/_assets/css/styles.css" media="screen">
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
-
 	<script>
 		document.createElement( "picture" );
 	</script>
