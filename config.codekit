@@ -1033,7 +1033,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 696254,
+		"initialSize": 0,
 		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/acro-extralarge.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/acro-extralarge.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1088,7 +1088,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
+		"initialSize": 635603,
 		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/brake-extralarge.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/brake-extralarge.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1231,7 +1231,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 56733,
+		"initialSize": 161318,
 		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/fabrication-medium.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/fabrication-medium.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -1253,15 +1253,9 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-<<<<<<< HEAD
-		"initialSize": 1.71523e+06,
-		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-extralarge.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-extralarge.jpg",
-=======
 		"initialSize": 896808,
 		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-extralarge.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-extralarge.jpg",
->>>>>>> 7115229a2e811fed76874fe87f7f6b6bab8091ff
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1270,15 +1264,9 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-<<<<<<< HEAD
-		"initialSize": 447322,
-		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-extramedium.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-extramedium.jpg",
-=======
 		"initialSize": 231494,
 		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-extramedium.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-extramedium.jpg",
->>>>>>> 7115229a2e811fed76874fe87f7f6b6bab8091ff
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1287,15 +1275,9 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-<<<<<<< HEAD
-		"initialSize": 630934,
-		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-large.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-large.jpg",
-=======
 		"initialSize": 328461,
 		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-large.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-large.jpg",
->>>>>>> 7115229a2e811fed76874fe87f7f6b6bab8091ff
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1304,15 +1286,9 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-<<<<<<< HEAD
-		"initialSize": 144726,
-		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-medium.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-medium.jpg",
-=======
 		"initialSize": 231494,
 		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-medium.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-medium.jpg",
->>>>>>> 7115229a2e811fed76874fe87f7f6b6bab8091ff
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1321,15 +1297,9 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-<<<<<<< HEAD
-		"initialSize": 43980,
-		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-small.jpg",
-		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/paintbooth-small.jpg",
-=======
 		"initialSize": 24809,
 		"inputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-small.jpg",
 		"outputAbbreviatedPath": "\/_assets\/img\/fixed\/grinding-small.jpg",
->>>>>>> 7115229a2e811fed76874fe87f7f6b6bab8091ff
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
