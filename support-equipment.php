@@ -36,7 +36,7 @@
 
                 <h2><span class="icon-arrow-double"></span> Laser Cutting</h2>
 
-                <p>Our Trumpf TruLaser 3030 laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals.</p>
+                <p>Our Trumpf TruLaser 3030 laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals. <a href="/metalwork/welding-laser-cutting">Read more about our welding and laser cutting capabilities.</a></p>
 
             </div><!--text-->
 
@@ -60,7 +60,7 @@
 
                 <h2><span class="icon-arrow-double"></span> Press Brakes</h2>
 
-                <p>Our Accurpress Accell Press Brake, Di-Acro Promecam CNC Press Brake, and Guifil Press Brake feature high-precision, high-speed, and high-versatility when it comes to bending sheet metal as well as other types of metal.</p>
+                <p>Our Accurpress Accell Press Brake, Di-Acro Promecam CNC Press Brake, and Guifil Press Brake feature high-precision, high-speed, and high-versatility when it comes to bending sheet metal as well as other types of metal. <a href="/metalwork/punch-form">Read more about our punch and form work.</a></p>
 
             </div><!--text-->
 
@@ -86,7 +86,7 @@
 
                 <h2><span class="icon-arrow-double"></span> Punch Presses</h2>
 
-                <p>Our Nisshinbo HIQ-1250 CNC Turret Punch Press and Strippit/LVD Global 20 CNC Turret Punch Press provide some of the fastest production speeds while delivering high-quality results.</p>
+                <p>Our Nisshinbo HIQ-1250 CNC Turret Punch Press and Strippit/LVD Global 20 CNC Turret Punch Press provide some of the fastest production speeds while delivering high-quality results. <a href="/metalwork/punch-form">Read more about our punch and form capabilities.</a></p>
 
             </div><!--text-->
 
@@ -98,25 +98,35 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="welding" title="welding project" href="/_assets/img/lightbox-welding.jpg"><img src="/_assets/img/lightbox-welding.jpg" alt="welding project"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="welding" title="Welding Project" href="/_assets/inc/portfolio/weld-table.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-welding.php'); //image gallery?>
+                <img src="/_assets/img/portfolio/weld_table-small.jpg" alt="Welding Project">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
 
             <div class="text">
 
                 <h2><span class="icon-arrow-double"></span> Welding</h2>
 
-                <p>Our professional welding fabricators have years of experience in both commercial and industrial <a class="fancybox" rel="welding" title="welding projects" href="/_assets/img/lightbox-welding-project.jpg">welding projects</a>.</p>
+                <p>Our professional welding fabricators have years of experience in both commercial and industrial welding projects. <a href="/metalwork/welding-laser-cutting">Read more about our welding and laser cutting work.</a></p>
 
             </div><!--text-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="welding" title="Welding for Hogebuilt" href="/_assets/inc/portfolio/weld-hogebuilt.php"></a>
 
         </div><!--twoCol-->
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="wet-paint" title="USE Wet Paint Line" href="/_assets/img/use-wet-paint-line.jpg"><img src="/_assets/img/use-wet-paint-line.jpg" alt="wet painting line"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="wet-paint" title="USE Wet Paint Line" href="/_assets/inc/equipment/wet-paint.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-wet-paint.php'); //image gallery?>
+                <img src="/_assets/img/equipment/wet_paint-small.jpg" alt="wet painting line">
+
+                <span class="icon-plus"></span>
+
+            </a>
 
             <div class="text">
 
@@ -126,21 +136,31 @@
 
             </div><!--text-->
 
+            <a class="hidden fancybox fancybox.ajax" rel="wet-paint" title="Wet Paint Line" href="/_assets/inc/equipment/wet-paint-curve.php"></a>
+
         </div><!--twoCol-->
 
         <div class="twoCol last">
 
-            <a class="fancybox fancyboxImg" rel="powder" title="Powder Coat Paint Line" href="/_assets/img/five-stage-wash-system.jpg"><img src="/_assets/img/five-stage-wash-system.jpg" alt="powder painting line"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="powder" title="Powder Coat Paint Line" href="/_assets/inc/equipment/powder-interior.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-powder.php'); //image gallery?>
+                <img src="/_assets/img/equipment/powder_interior-small.jpg" alt="powder painting line">
+
+                <span class="icon-plus"></span>
+
+            </a>
 
             <div class="text">
 
                 <h2><span class="icon-arrow-double"></span> Powder Coat Paint Line</h2>
 
-                <p>Our <a class="fancybox" href="/_assets/img/lightbox-gema.jpg" rel="powder" title="GEMA Powder Coat Paint Line">GEMA Powder Coat Paint Line</a> has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean and excellent coating results. <a href="/painting/powder-coating">Read more about our powder coating line.</a></p>
+                <p>Our GEMA Powder Coat Paint Line has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean and excellent coating results. <a href="/painting/powder-coating">Read more about our powder coating line.</a></p>
 
             </div><!--text-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Powder Coating Parts" href="/_assets/inc/equipment/powder-parts.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Powder Painting System" href="/_assets/inc/equipment/powder-system.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Powder Coating System Interior" href="/_assets/inc/equipment/powder-panels.php"></a>
 
         </div><!--twoCol-->
 
