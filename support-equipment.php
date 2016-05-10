@@ -74,17 +74,25 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="punch-press" title="Nisshinbo HIQ-1250 CNC Turret Punch Press" href="/_assets/img/lightbox-nisshinbo.jpg"><img src="/_assets/img/lightbox-nisshinbo.jpg" alt="Nisshinbo HIQ-1250 CNC Turret Punch Press"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="punch-press" title="Nisshinbo HIQ-1250 CNC Turret Punch Press" href="/_assets/inc/equipment/nisshinbo-punch.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-punch-press.php'); //image gallery?>
+                <img src="/_assets/img/equipment/nisshinbo_punch-small.jpg" alt="Nisshinbo HIQ-1250 CNC Turret Punch Press">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
 
             <div class="text">
 
                 <h2><span class="icon-arrow-double"></span> Punch Presses</h2>
 
-                <p>Our <a class="fancybox" rel="punch-presses" title="Nisshinbo HIQ-1250 CNC Turret Punch Press" href="/_assets/img/lightbox-nisshinbo.jpg">Nisshinbo HIQ-1250 CNC Turret Punch Press</a> and <a class="fancybox" rel="punch-presses" title="Strippit/LVD Global 20 CNC Turret Punch Press" href="/_assets/img/lightbox-strippit.jpg">Strippit/LVD Global 20 CNC Turret Punch Press</a> provide some of the fastest production speeds while delivering high-quality results.</p>
+                <p>Our Nisshinbo HIQ-1250 CNC Turret Punch Press and Strippit/LVD Global 20 CNC Turret Punch Press provide some of the fastest production speeds while delivering high-quality results.</p>
 
             </div><!--text-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="punch-press" title="Nisshinbo Punch Press" href="/_assets/inc/equipment/nisshinbo-press.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="punch-press" title="Nisshinbo HIQ-1250 Punch Press" href="/_assets/inc/equipment/nisshinbo-hiq-1250.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="punch-press" title="Strippit LVD Global 20 CNC Turret Punch, 22 Ton" href="/_assets/inc/equipment/strippit-punch.php"></a>
 
         </div><!--twoCol-->
 
