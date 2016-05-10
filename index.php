@@ -1,6 +1,4 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
-<script type="text/javascript" src="/_assets/js/smoothscroll.js"></script>
-<script type="text/javascript" src="/_assets/js/fancybox.jquery.js"></script>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/navigation.php'); //navigation?>
 
 <div id="opacity">
@@ -16,7 +14,6 @@
             </div>
 
         </div><!--inner-->
-
 
         <video loop autoplay>
             <source src="/_assets/slider/precision-metalwork.mp4" type="video/mp4">
@@ -156,8 +153,6 @@
 
     </section><!--white-->
 
-
-
     <section class="dark">
 
         <div class="inner">
@@ -170,50 +165,51 @@
 
     </section>
 
-
-
-
-
     <section class="white">
 
         <div class="inner grid">
 
             <h3>Recent Projects</h3>
 
-            <div class="portfolioItem powder punch ">
-                <img src="/_assets/img/Precision-MiscParts.jpg" alt="portfolio item"/>
+            <div class="portfolioItem powder">
+                <img src="/_assets/img/portfolio/powder_line-small.jpg" alt="NIC Parts">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Powder Painting</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/powder-line.php" alt="Powder Painting" title="Powder Painting" rel="highlights">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem grind laser">
-                <img src="/_assets/img/Precision-MiscParts3.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem weld">
+                <img src="/_assets/img/portfolio/weld_hogebuilt-small.jpg" alt="Welding for Hogebuilt">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts3.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Welding for Hogebuilt</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-hogebuilt.php" alt="Welding for Hogebuilt" title="Welding for Hogebuilt" rel="highlights">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem weld powder">
-                <img src="/_assets/img/Precision-MiscParts4.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem fabrication laser">
+                <img src="/_assets/img/portfolio/fabrication_rotary-small.jpg" alt="GE Rotary Flanges">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts4.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>GE Rotary Flanges</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/fabrication-rotary.php" alt="GE Rotary Flanges" title="GE Rotary Flanges" rel="highlights">Details</a>
                 </div><!--container-->
-            </div>
-            <div class="portfolioItem form fabrication">
-                <img src="/_assets/img/Precision-MiscParts5.jpg" alt="portfolio item"/>
+            </div><!--portfolioItem-->
+
+            <div class="portfolioItem assembly">
+                <img src="/_assets/img/portfolio/assembly_table-small.jpg" alt="Assembly on Table">
                 <div class="container">
-                    <h3>Item Title</h3>
-                    <a class="btn fancybox" href="/_assets/img/Precision-MiscParts5.jpg" alt="Precision Metalwork portfolio item">Details</a>
+                    <h3>Assembly</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/assembly-table.php" alt="Assembly on Table" title="Assembly on Table" rel="highlights">Details</a>
                 </div><!--container-->
-            </div>
+            </div><!--portfolioItem-->
 
             <p><a href="/portfolio">View more projects on our Portfolio page.</a></p>
 
         </div><!--inner-->
 
     </section><!--slider-->
+
+<script type="text/javascript" src="/_assets/js/min/fancybox-min.js"></script>
 
 <script type="text/javascript">
     $(document).ready(function() {
