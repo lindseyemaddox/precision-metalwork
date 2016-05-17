@@ -22,7 +22,17 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" title="PMI misc parts" href="/_assets/img/fabrication-assembly.jpg"><img src="/_assets/img/fabrication-assembly.jpg" alt="PMI misc parts"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" href="/_assets/inc/portfolio/assembly-table.php" alt="Assembly on Table" title="Assembly on Table" rel="assembly">
+
+                <img src="/_assets/img/portfolio/assembly_table-small.jpg" alt="Assembly on Table">
+
+                <span class="icon-plus"></span>
+
+            </a>
+
+            <a class="hidden fancybox fancybox.ajax" rel="assembly" title="Assembly" href="/_assets/inc/portfolio/assembly-case.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="assembly" title="Case Assembly" href="/_assets/inc/portfolio/fabrication-case.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="assembly" title="Rotary Assembly" href="/_assets/inc/portfolio/fabrication-rotary.php"></a>
 
             <div class="text">
 

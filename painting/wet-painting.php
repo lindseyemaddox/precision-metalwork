@@ -27,9 +27,15 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" title="Wet Paint Line" rel="wet-paint" href="/_assets/img/wet-paint-line.jpg"><img src="/_assets/img/wet-paint-line.jpg" alt="Wet Paint Line"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="wet-paint" title="Wet Painting Line" href="/_assets/inc/equipment/wet-paint-curve.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-wet-paint.php'); //image gallery?>
+                <img src="/_assets/img/equipment/wet_paint_curve-small.jpg" alt="Wet Painting Line">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="wet-paint" title="Wet Paint Line" href="/_assets/inc/equipment/wet-paint.php"></a>
 
             <div class="text">
 

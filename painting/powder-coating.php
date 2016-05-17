@@ -25,9 +25,17 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" title="Paint Booth" rel="powder" href="/_assets/img/paint-booth.jpg"><img src="/_assets/img/paint-booth.jpg" alt="Paint Booth"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="powder" title="Powder Coating Paint Booth" href="/_assets/inc/equipment/powder-parts.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-powder.php'); //image gallery?>
+                <img src="/_assets/img/equipment/powder_parts-small.jpg" alt="Powder Coating Paint Booth">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Powder Paint Booth Interior" href="/_assets/inc/equipment/powder-interior.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Panels Entering Powder Paint Booth" href="/_assets/inc/equipment/powder-panels.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Powder Paint Booth System" href="/_assets/inc/equipment/powder-system.php"></a>
 
             <div class="text">
 

@@ -22,9 +22,15 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" title="Timesavers Series 1200" rel="grinding" href="/_assets/img/timesavers.jpg"><img src="/_assets/img/timesavers.jpg" alt="Timesavers Series 1200"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="grinding" title="TimeSavers Sanding Machine" href="/_assets/inc/equipment/grinding.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-grinding.php'); //image gallery?>
+                <img src="/_assets/img/equipment/timesavers_sanding-small.jpg" alt="TimeSavers Sanding Machine">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="grinding" title="grinding on table" href="/_assets/inc/equipment/grinding-table.php"></a>
 
             <div class="text">
 

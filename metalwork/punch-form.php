@@ -24,9 +24,17 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" title="Trumpf TruBend 3100 Press Brake" rel="punch-press" href="/_assets/img/trublend3100.jpg"><img src="/_assets/img/trublend3100.jpg" alt="Trumpf TruBend 3100 Press Brake"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="punch-press" title="Nisshinbo HIQ-1250 CNC Turret Punch Press" href="/_assets/inc/equipment/nisshinbo-punch.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-punch-press.php'); //image gallery?>
+                <img src="/_assets/img/equipment/nisshinbo_punch-small.jpg" alt="Nisshinbo HIQ-1250 CNC Turret Punch Press">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="punch-press" title="Nisshinbo Punch Press" href="/_assets/inc/equipment/nisshinbo-press.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="punch-press" title="Nisshinbo HIQ-1250 Punch Press" href="/_assets/inc/equipment/nisshinbo-hiq-1250.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="punch-press" title="Strippit LVD Global 20 CNC Turret Punch, 22 Ton" href="/_assets/inc/equipment/strippit-punch.php"></a>
 
             <div class="text">
 

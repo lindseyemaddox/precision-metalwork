@@ -25,15 +25,23 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="powder" title="Powder Coat Paint Line" href="/_assets/img/lightbox-powder.jpg"><img src="/_assets/img/lightbox-powder.jpg" alt="powder painting line"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="powder" title="Powder Coating Paint Booth" href="/_assets/inc/equipment/powder-parts.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-powder.php'); //image gallery?>
+                <img src="/_assets/img/equipment/powder_parts-small.jpg" alt="Powder Coating Paint Booth">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Powder Paint Booth Interior" href="/_assets/inc/equipment/powder-interior.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Panels Entering Powder Paint Booth" href="/_assets/inc/equipment/powder-panels.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="powder" title="Powder Paint Booth System" href="/_assets/inc/equipment/powder-system.php"></a>
 
             <div class="text">
 
                 <h2><span class="icon-arrow-double"></span> Powder Coat Paint Line</h2>
 
-                <p>Our <a class="fancybox" href="/_assets/img/lightbox-gema.jpg" rel="powder" title="GEMA Powder Coat Paint Line">GEMA Powder Coat Paint Line</a> has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean, and excellent coating results. <a href="/painting/powder-coating">Read more about our powder coating line.</a></p>
+                <p>Our GEMA Powder Coat Paint Line has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean, and excellent coating results. <a href="/painting/powder-coating">Read more about our powder coating line.</a></p>
 
             </div><!--text-->
 
@@ -41,9 +49,15 @@
 
         <div class="twoCol">
 
-            <a class="fancybox fancyboxImg" rel="wet-paint" title="Wet Paint Line" href="/_assets/img/lightbox-wet-paint.jpg"><img src="/_assets/img/lightbox-wet-paint.jpg" alt="wet painting line"><span class="icon-plus"></span></a>
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="wet-paint" title="Wet Painting Line" href="/_assets/inc/equipment/wet-paint-curve.php">
 
-            <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-wet-paint.php'); //image gallery?>
+                <img src="/_assets/img/equipment/wet_paint_curve-small.jpg" alt="Wet Painting Line">
+
+                <span class="icon-plus"></span>
+
+            </a><!--fancybox-->
+
+            <a class="hidden fancybox fancybox.ajax" rel="wet-paint" title="Wet Paint Line" href="/_assets/inc/equipment/wet-paint.php"></a>
 
             <div class="text">
 
