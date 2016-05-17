@@ -34,9 +34,9 @@
 
             <div class="text">
 
-                <p>Our skilled welders have years of experience in both commercial and industrial <a class="fancybox" href="/_assets/img/lightbox-welding.jpg" data-fancybox-group="welding" title="welding projects">welding projects</a> as well as in using our TIG and MIG welding machines on many types of alloys. And our attention to detail helps us deliver metal fabrication services that result in high-quality welds the first time, every time.</p>
+                <p>Our skilled welders have years of experience in both commercial and industrial welding projects as well as in using our TIG and MIG welding machines on many types of alloys. And our attention to detail helps us deliver metal fabrication services that result in high-quality welds the first time, every time.</p>
 
-                <p>You can count on our fully automated <a class="fancybox" href="/_assets/img/lightbox-trumpf.jpg" data-fancybox-group="welding" title="Trumpf TruLaser 3030">Trumpf TruLaser 3030</a> laser cutting machine to cut mild steel at all sheet thicknesses. And its solid-state laser enables us to process non-ferrous metals. In addition to being able to handle tight tolerances, laser cutting results in clean, smooth results. That means you can count on consistency, accuracy, and fast turnaround times.</p>
+                <p>You can count on our fully automated Trumpf TruLaser 3030 laser cutting machine to cut mild steel at all sheet thicknesses. And its solid-state laser enables us to process non-ferrous metals. In addition to being able to handle tight tolerances, laser cutting results in clean, smooth results. That means you can count on consistency, accuracy, and fast turnaround times.</p>
 
             </div><!--text-->
 

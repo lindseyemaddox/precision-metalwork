@@ -1,0 +1,51 @@
+.fancybox [class^="icon-"],
+.fancybox [class*=" icon-"] {
+  color: #d6a94d;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 2em;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+.fancybox:hover [class^="icon-"],
+.fancybox:hover [class*=" icon-"] {
+  font-size: 4em;
+  bottom: 7px;
+  right: 7px;
+  color: #fff;
+  animation: none;
+}
+
+
+.fancybox .icon-plus {
+  animation: blink 2s infinite;
+  text-shadow: 0px 0px 3px @blue;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+    -moz-transform: scale(1.25, 1.25);
+    -ms-transform: scale(1.25, 1.25);
+    -webkit-transform: scale(1.25, 1.25);
+    transform: scale(1.25, 1.25);
+  }
+  70% {
+    -moz-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    opacity: 0.5;
+  }
+  100% {
+    -moz-transform: scale(1.5, 1.5);
+    -ms-transform: scale(1.5, 1.5);
+    -webkit-transform: scale(1.5, 1.5);
+    transform: scale(1.5, 1.5);
+    opacity: 1;
+  }
+}

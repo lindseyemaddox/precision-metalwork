@@ -21,7 +21,7 @@
 
         <h6>Precision Metalwork’s powder coat painting services cover a wide variety of steel and aluminum components as well as small fabrications and assemblies. That means you get a durable, weather-resistant solution for your metal products.</h6>
 
-        <p>Our <a class="fancybox" rel="powder" href="/_assets/img/lightbox-gema-interior.jpg" title="GEMA Powder Coat Paint Line interior">GEMA Powder Coat Paint Line</a> has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean, and excellent coating results.</p>
+        <p>Our GEMA Powder Coat Paint Line has a 75-foot long, five-stage pretreatment (wash) system, automatic guns in the reclaim booth, and a 500-foot long conveyor. That means it operates efficiently and dust free, leaving clean, and excellent coating results.</p>
 
         <div class="twoCol">
 
