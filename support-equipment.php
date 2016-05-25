@@ -166,7 +166,7 @@
 
         <h2><span class="icon-arrow-double"></span> Drop Us a Line</h2>
 
-        <p>Located near <a href="https://goo.gl/maps/ddNh56LfhPH2" target="_blank">Nashville, Tennessee</a>, Precision Metalwork has been manufacturing and customizing quality <a href="/portfolio">sheet metal products</a> for more than 40 years. In addition to producing parts, components, assemblies, and finished products, we offer a full range of metal fabrication services—such as shearing, hole punching, <a href="/metalwork/laser-cutting">laser cutting</a>, bending, <a href="/metalwork/welding-laser-cutting">welding</a>, <a href="/metalwork/fabrication-assembly">assembling</a>, and <a href="/painting/">painting</a>. Give us a call at <a href="tel:16158594461">(615) 859-4461</a> or <a href="/contact">submit an online form</a> to learn more and get started.</p>
+        <p>Located near <a href="https://goo.gl/maps/ddNh56LfhPH2" target="_blank">Nashville, Tennessee</a>, Precision Metalwork has been manufacturing and customizing quality <a href="/portfolio">sheet metal products</a> for more than 40 years. In addition to producing parts, components, assemblies, and finished products, we offer a full range of metal fabrication services—such as shearing, hole punching, <a href="/metalwork/welding-laser-cutting">laser cutting</a>, bending, <a href="/metalwork/welding-laser-cutting">welding</a>, <a href="/metalwork/fabrication-assembly">assembling</a>, and <a href="/painting/">painting</a>. Give us a call at <a href="tel:16158594461">(615) 859-4461</a> or <a href="/contact">submit an online form</a> to learn more and get started.</p>
 
     </div><!--inner-->
 
@@ -179,7 +179,7 @@
         <span class="icon-i-punch"></span>
 
         <h4><span>Our Work</span><br/>
-        We fabricate a wide variety of <a class="fancybox" href="/_assets/img/lightbox-welding.jpg" rel="assembly" title="fabrication and assembly">components, parts, and products</a> made from aluminum, carbon steel, and stainless steel as well as speciality metals that include brass, copper, bronze, and other specialty metals.</h4>
+        We fabricate a wide variety of components, parts, and products made from aluminum, carbon steel, and stainless steel as well as speciality metals that include brass, copper, bronze, and other specialty metals.</h4>
 
         <?php include($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/gallery-assembly.php'); //image gallery?>
 

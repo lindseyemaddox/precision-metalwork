@@ -33,7 +33,7 @@
 
 				<a href="https://goo.gl/maps/ddNh56LfhPH2" target="_blank" rel="nofollow"><span class="icon-pin"><span class="path1"></span><span class="path2"></span></span></a>
 
-				<a href="" target="_blank"><span class="icon-google"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
+				<a href="https://plus.google.com/u/0/b/109446182773391448329/109446182773391448329/about/p/pub" target="_blank"><span class="icon-google"><span class="path1"></span><span class="path2"></span><span class="path3"></span></span></a>
 
 			</div><!--socials-->
 
@@ -90,7 +90,7 @@
 
 </section><!--white-->
 
-<section class="fixed press"></section>
+<section class="fixed trubend"></section>
 
 </div><!--opacity-->
 
