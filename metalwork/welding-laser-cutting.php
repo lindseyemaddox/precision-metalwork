@@ -30,7 +30,7 @@
 
             </a><!--fancybox-->
 
-            <a class="hidden fancybox fancybox.ajax" rel="welding" title="Welding for Hogebuilt" href="/_assets/inc/portfolio/weld-hogebuilt.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="welding" title="Welding Project" href="/_assets/inc/portfolio/weld-zoomout.php"></a>
 
             <div class="text">
 

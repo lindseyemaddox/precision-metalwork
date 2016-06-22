@@ -42,10 +42,10 @@
             </div><!--portfolioItem-->
 
             <div class="portfolioItem weld">
-                <img src="/_assets/img/portfolio/weld_hogebuilt-small.jpg" alt="Welding for Hogebuilt">
+                <img src="/_assets/img/portfolio/weld_zoomout-small.jpg" alt="Welding Project">
                 <div class="container">
-                    <h3>Welding for Hogebuilt</h3>
-                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-hogebuilt.php" alt="Welding for Hogebuilt" title="Welding for Hogebuilt" rel="weld">Details</a>
+                    <h3>Welding Project</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-zoomout.php" alt="Welding Project" title="Welding Project" rel="weld">Details</a>
                 </div><!--container-->
             </div><!--portfolioItem-->
 
@@ -90,10 +90,10 @@
             </div><!--portfolioItem-->
 
             <div class="portfolioItem weld">
-                <img src="/_assets/img/portfolio/weld_table-small.jpg" alt="Welding for Hogebuilt">
+                <img src="/_assets/img/portfolio/weld_table-small.jpg" alt="Welding">
                 <div class="container">
-                    <h3>Hogebuilt Welding</h3>
-                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-table.php" alt="Hogebuilt Welding" title="Hogebuilt Welding" rel="weld">Details</a>
+                    <h3>Welding Project</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-table.php" alt="Welding" title="Welding" rel="weld">Details</a>
                 </div><!--container-->
             </div><!--portfolioItem-->
 

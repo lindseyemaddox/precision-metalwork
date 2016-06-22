@@ -180,10 +180,10 @@
             </div><!--portfolioItem-->
 
             <div class="portfolioItem weld">
-                <img src="/_assets/img/portfolio/weld_hogebuilt-small.jpg" alt="Welding for Hogebuilt">
+                <img src="/_assets/img/portfolio/weld_zoomout-small.jpg" alt="Welding Project">
                 <div class="container">
-                    <h3>Welding for Hogebuilt</h3>
-                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-hogebuilt.php" alt="Welding for Hogebuilt" title="Welding for Hogebuilt" rel="highlights">Details</a>
+                    <h3>Welding Project</h3>
+                    <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-zoomout.php" alt="Welding Project" title="Welding Project" rel="highlights">Details</a>
                 </div><!--container-->
             </div><!--portfolioItem-->
 
