@@ -114,7 +114,7 @@
 
             </div><!--text-->
 
-            <a class="hidden fancybox fancybox.ajax" rel="welding" title="Welding Project" href="/_assets/inc/portfolio/weld-zoomout.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="welding" title="Welding" href="/_assets/inc/portfolio/weld-zoomout.php"></a>
 
         </div><!--twoCol-->
 

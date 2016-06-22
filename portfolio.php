@@ -92,7 +92,7 @@
             <div class="portfolioItem weld">
                 <img src="/_assets/img/portfolio/weld_table-small.jpg" alt="Welding">
                 <div class="container">
-                    <h3>Welding Project</h3>
+                    <h3>Welding</h3>
                     <a class="btn fancybox fancybox.ajax" href="/_assets/inc/portfolio/weld-table.php" alt="Welding" title="Welding" rel="weld">Details</a>
                 </div><!--container-->
             </div><!--portfolioItem-->
