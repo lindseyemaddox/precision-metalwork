@@ -130,23 +130,6 @@
         </div>
 
         <div class="tab">
-          <input id="tab-eight" type="radio" name="tabs2">
-          <label for="tab-eight"><span class="icon-arrow-double"></span> Wet Paint Line</label>
-          <div class="tab-content">
-
-            <ul class="twoCol lastChild">
-                <li><span class="icon-li"></span> 100' conveyor</li>
-                <li><span class="icon-li"></span> Binks 8' dry booth</li>
-            </ul>
-
-            <ul class="twoCol two lastChild">
-                <li><span class="icon-li"></span> <a href="/painting/wet-painting">Visit Wet Painting Page</a></li>
-            </ul>
-
-          </div>
-        </div>
-
-        <div class="tab">
           <input id="tab-nine" type="radio" name="tabs2">
           <label for="tab-nine"><span class="icon-arrow-double"></span> Weld, Grind, and Polish</label>
           <div class="tab-content">

@@ -69,7 +69,7 @@
 
 </section><!--slider-->
 
-<section class="fixed brake"></section>
+<section class="fixed outdoor"></section>
 
 <section class="cta">
 

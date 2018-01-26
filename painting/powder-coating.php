@@ -43,8 +43,6 @@
         
                 <p>The benefits of powder coat painting include resistance to chemicals, UV light, and impacts; product flexibility; and electric insulation. These benefits make powder coat paint ideal for industries that experience regular “wear and tear,” such as the trucking and transportation industries.</p>
 
-                <p>We also provide wet painting services for metal products and assemblies that require thin coats of paint and/or can’t withstand the high temperatures associated with powder coating. Wet painting also provides protection as well as decorative finishes.</p>
-
             </div><!--text-->
 
         </div><!--twoCol-->

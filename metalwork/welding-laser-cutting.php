@@ -22,21 +22,21 @@
 
             <h6>Precision Metalwork offers sheet metal fabrication solutions for nearly any size project and provides custom welding and laser cutting services to OEMs as well as customers in the transportation, energy, food service, and home design industries, just to name a few. We’re dedicated not only to housing the best welding and laser cutting equipment, but also to providing ongoing training to our team members to ensure we’re providing our customers with the best results all around.</h6>
 
-            <a class="fancybox fancyboxImg fancybox.ajax" rel="welding" title="Welding Project" href="/_assets/inc/portfolio/weld-table.php">
+            <a class="fancybox fancyboxImg fancybox.ajax" rel="laser" title="Trumpf TruLaser 3030" href="/_assets/inc/equipment/trulaser-fiber.php">
 
-                <img src="/_assets/img/portfolio/weld_table-small.jpg" alt="Welding Project">
+                <img src="/_assets/img/portfolio/laser-small.jpg" alt="Trumph TruLaser 3030">
 
                 <span class="icon-plus"></span>
 
             </a><!--fancybox-->
 
-            <a class="hidden fancybox fancybox.ajax" rel="welding" title="Welding Project" href="/_assets/inc/portfolio/weld-zoomout.php"></a>
+            <a class="hidden fancybox fancybox.ajax" rel="laser" title="Trumpf TruLaser 3030" href="/_assets/inc/equipment/trulaser-3030-fiber.php"></a>
 
             <div class="text">
 
-                <p>Our skilled welders have years of experience in both commercial and industrial welding projects as well as in using our TIG and MIG welding machines on many types of alloys. And our attention to detail helps us deliver metal fabrication services that result in high-quality welds the first time, every time.</p>
+                <p>You can count on our fully automated Trumpf TruLaser 3030 laser cutting machines to cut mild steel at all sheet thicknesses. And its solid-state laser enables us to process non-ferrous metals. In addition to being able to handle tight tolerances, laser cutting results in clean, smooth results. That means you can count on consistency, accuracy, and fast turnaround times.</p>
 
-                <p>You can count on our fully automated Trumpf TruLaser 3030 laser cutting machine to cut mild steel at all sheet thicknesses. And its solid-state laser enables us to process non-ferrous metals. In addition to being able to handle tight tolerances, laser cutting results in clean, smooth results. That means you can count on consistency, accuracy, and fast turnaround times.</p>
+                <p>Our skilled welders have years of experience in both commercial and industrial welding projects as well as in using our TIG and MIG welding machines on many types of alloys. And our attention to detail helps us deliver metal fabrication services that result in high-quality welds the first time, every time.</p>
 
             </div><!--text-->
 

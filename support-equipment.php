@@ -36,7 +36,7 @@
 
                 <h2><span class="icon-arrow-double"></span> Laser Cutting</h2>
 
-                <p>Our Trumpf TruLaser 3030 laser cutting machine cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals. <a href="/metalwork/welding-laser-cutting">Read more about our welding and laser cutting capabilities.</a></p>
+                <p>Our Trumpf TruLaser 3030 laser cutting machines cuts mild steel at all sheet thicknesses and its solid-state laser enables us to process non-ferrous metals. <a href="/metalwork/welding-laser-cutting">Read more about our welding and laser cutting capabilities.</a></p>
 
             </div><!--text-->
 
@@ -115,28 +115,6 @@
             </div><!--text-->
 
             <a class="hidden fancybox fancybox.ajax" rel="welding" title="Welding" href="/_assets/inc/portfolio/weld-zoomout.php"></a>
-
-        </div><!--twoCol-->
-
-        <div class="twoCol">
-
-            <a class="fancybox fancyboxImg fancybox.ajax" rel="wet-paint" title="USE Wet Paint Line" href="/_assets/inc/equipment/wet-paint.php">
-
-                <img src="/_assets/img/equipment/wet_paint-small.jpg" alt="wet painting line">
-
-                <span class="icon-plus"></span>
-
-            </a>
-
-            <div class="text">
-
-                <h2><span class="icon-arrow-double"></span> Wet Paint Line</h2>
-
-                <p>Wet paint is ideal for products that require thin coats of paint and/or can’t withstand the high temperates associated with powder coating. <a href="/painting/wet-painting">Read more about our wet painting capabilities.</a></p>
-
-            </div><!--text-->
-
-            <a class="hidden fancybox fancybox.ajax" rel="wet-paint" title="Wet Paint Line" href="/_assets/inc/equipment/wet-paint-curve.php"></a>
 
         </div><!--twoCol-->
 

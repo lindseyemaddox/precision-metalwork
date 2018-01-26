@@ -27,7 +27,6 @@
             <button class="button" data-filter=".polish">Polish</button>
             <button class="button" data-filter=".fabrication">Fabrication</button>
             <button class="button" data-filter=".assembly">Assembly</button>
-            <button class="button" data-filter=".wet">Wet Painting</button>
             <button class="button" data-filter=".powder">Powder Coating</button>
         </div><!--button-group-->
 

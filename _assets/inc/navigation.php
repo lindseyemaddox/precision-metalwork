@@ -17,17 +17,12 @@
 			<nav>
 				<ul id="mainNav">
 					<li><a href="/about">About</a></li>
-					<li class="drop"><a href="/metalwork/">Metalwork</a> <span class="icon-arrow-double collapsed"></span>
+					<li class="drop"><a href="/metalwork/">Metalwork</a> & <a href="/painting/">Painting</a> <span class="icon-arrow-double collapsed"></span>
 						<ul>
 							<li><a href="/metalwork/punch-form">Punch &amp; Form</a></li>
 							<li><a href="/metalwork/welding-laser-cutting">Welding &amp; Laser Cutting</a></li>
 							<li><a href="/metalwork/grinding-polishing">Grinding &amp; Polishing</a></li>
 							<li><a href="/metalwork/fabrication-assembly">Fabrication &amp; Assembly</a></li>
-						</ul>
-					</li>
-					<li class="drop"><a href="/painting/">Painting</a> <span class="icon-arrow-double collapsed"></span>
-						<ul class="last">
-							<li><a href="/painting/wet-painting">Wet Painting</a></li>
 							<li><a href="/painting/powder-coating">Powder Coating</a></li>
 						</ul>
 					</li>
